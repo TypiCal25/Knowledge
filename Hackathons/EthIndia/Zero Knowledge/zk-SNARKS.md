@@ -11,5 +11,3 @@ The whole point of zk-SNARKs is that they are **non-interactive**. In this case,
 zk-SNARKS make use of a concept known as [[Quadratic Span Program]] which offer a method of generating very succinct zk-proofs. These make use of [[Finite Fields]] as well. This is irrelevant in the application of zk-SNARKs as it is more of a background detail.
 
 This is going to be the backbone of our project.
-
-This is a test.
