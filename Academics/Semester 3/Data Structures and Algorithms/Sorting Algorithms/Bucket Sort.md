@@ -1,0 +1,1 @@
+It is assumed and is usually done for floating point numbers, or for numbers between 0 to 1. The range is divided into n non-overlapping buckets. Each bucket is individually sorted, and then the results are concatenated.
