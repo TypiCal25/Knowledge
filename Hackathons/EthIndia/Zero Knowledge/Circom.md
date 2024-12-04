@@ -5,4 +5,7 @@ The signals show that there are a whole list of circuits. Each gate provides a c
 <-- is used simply as a direct assignment operator to the signals
 <== specifies a constraint system.
 # Public and Private Signals
-Signals are always considered private by default. All output signals are always made public. 
+- Signals are always considered to be private. The programmer can set some input signals to be public
+- Output signals are always public
+- A signal is immutable
+- 
