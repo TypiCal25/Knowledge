@@ -10,3 +10,7 @@ The signals show that there are a whole list of circuits. Each gate provides a c
 - A signal is immutable
 ## Variables
 There are also variables in the programming language of Circom. These hold non-signal data and can be defined as var. 
+# Templates
+- This is like an object which can be used to generate circuit objects.
+- Assigning a value to an input signal inside the same template is wrong.
+- 
