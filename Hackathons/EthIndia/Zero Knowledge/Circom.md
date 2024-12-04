@@ -15,4 +15,3 @@ There are also variables in the programming language of Circom. These hold non-s
 - Assigning a value to an input signal inside the same template is wrong.
 # Components
 - Component Instantiation only occurs from a template once all the signals have been set.
-- 
