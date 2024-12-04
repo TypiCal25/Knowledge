@@ -9,4 +9,4 @@ The signals show that there are a whole list of circuits. Each gate provides a c
 - Output signals are always public
 - A signal is immutable
 ## Variables
-There are also variables in the programming language of Circom. 
+There are also variables in the programming language of Circom. These hold non-signal data and can be defined as var. 
