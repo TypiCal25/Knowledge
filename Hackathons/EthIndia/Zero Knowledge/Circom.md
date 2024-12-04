@@ -8,4 +8,5 @@ The signals show that there are a whole list of circuits. Each gate provides a c
 - Signals are always considered to be private. The programmer can set some input signals to be public
 - Output signals are always public
 - A signal is immutable
-- 
+## Variables
+There are also variables in the programming language of Circom. 
