@@ -12,4 +12,5 @@ The plan of this is in [[Fourth Semester]].
 ## 2. Finish The Capstone Project Courses
 The [[Capstone Project]] is also ongoing and you have a lot of things to complete. Make a proper planner in [[Capstone Project]] and a timetable in [[Capstone Project]].
 # Career Goals
-Academics
+Academics is only one part of the bigger picture. In the end, there are a lot more things to deal with as well. Learning just academics is simply not enough anymore.
+
