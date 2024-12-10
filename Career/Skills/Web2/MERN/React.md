@@ -1,3 +1,6 @@
 React apps are basically made out of components. But what are components? Components are basically just pieces of the user-interface of a web application. All React components must start with a capital letter.
 # How To Think In Terms of React
 This is very important to do. 
+1. Break the user interface into component heirarchy
+2. Find the minimal but complete representation of the UI state
+3. Identify where the state should live.
