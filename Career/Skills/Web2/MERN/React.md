@@ -4,3 +4,5 @@ This is very important to do.
 1. Break the user interface into component heirarchy
 2. Find the minimal but complete representation of the UI state
 3. Identify where the state should live.
+
+React uses one-way data flow. 
