@@ -9,4 +9,4 @@ React uses one-way data flow.
 # React Components
 React components are simply just JavaScript functions that are sprinkled with HTML and CSS. In this case, you can define how many ever components you want in the same JSX file.
 
-It is very impor
+It is very important to keep react components pure. What does this mean? It means that for the same input, the component generated should be the exact same. 
