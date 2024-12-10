@@ -1,1 +1,1 @@
-React apps are basically made out of components. But what are components
+React apps are basically made out of components. But what are components? Components are basically just pieces of the user-interface of a web application. All React components must start with a capital letter.
