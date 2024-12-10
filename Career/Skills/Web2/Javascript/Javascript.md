@@ -1,1 +1,1 @@
-Javascript is 
+JavaScript is a Just-In-Time compiled language. This makes it pretty well-performing in most cases. 
