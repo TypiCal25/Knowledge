@@ -1,0 +1,1 @@
+React apps are basically made out of components. But what are components
