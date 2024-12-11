@@ -12,3 +12,7 @@ React components are simply just JavaScript functions that are sprinkled with HT
 It is very important to keep react components pure. What does this mean? It means that for the same input, the component generated should be the exact same. 
 
 You should expect that react components can be rendered in any order. 
+# State
+There are two main features of React State:
+- The value is persisted in between renders
+- Any change to the state triggers a re-render of the component.
