@@ -17,4 +17,8 @@ There are two main features of React State:
 - The value is persisted in between renders
 - Any change to the state triggers a re-render of the component.
 - State is completely isolated to each component.
-# Rendering P
+# Rendering Process in React
+The rendering process in React contains 3 main steps
+1. Triggering of a render
+2. Rendering
+3. Commiting
