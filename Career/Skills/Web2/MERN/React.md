@@ -21,4 +21,4 @@ There are two main features of React State:
 The rendering process in React contains 3 main steps
 1. Triggering of a render
 2. Rendering
-3. Commiting
+3. Committing
