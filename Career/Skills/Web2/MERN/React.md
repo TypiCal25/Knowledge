@@ -17,6 +17,8 @@ There are two main features of React State:
 - The value is persisted in between renders
 - Any change to the state triggers a re-render of the component.
 - State is completely isolated to each component.
+
+State variables might look like regular JavaScript variables but they aren't actually regular JavaScript variables. They behave more like a **snapshot**. Setting it does not actually change the state variable but instead triggers a re-render. 
 # Rendering Process in React
 The rendering process in React contains 3 main steps
 1. Triggering of a render
