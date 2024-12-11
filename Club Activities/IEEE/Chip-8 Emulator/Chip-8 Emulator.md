@@ -8,4 +8,4 @@ Chip-8 is simply just an interpreted programming language. It was originally int
 - There is also a 8-bit sound timer which is decremented at a rate of 60 Hz. It plays an audio sound until its value is 0. 
 - There are also 16 8-bit general purpose registers from V0 to VF. VF is also used as a flag register by many of the instructions so it is better to not make use of this register.
 # Memory
-The Chip-8 interpreter uses memory from 000 to 1FF to store the interpreter itself. 
+The Chip-8 interpreter uses memory from 000 to 1FF to store the interpreter itself. This means that we are storing the interpreter from memory location 0 to 512. 
