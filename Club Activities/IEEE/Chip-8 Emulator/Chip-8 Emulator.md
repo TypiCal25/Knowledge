@@ -4,4 +4,5 @@ Chip-8 is simply just an interpreted programming language. It was originally int
 - **Display**: There is a 64 x 32 pixels
 - There is a program counter which points to a current instruction in memory
 - There is also a 16-bit index register called I which is used to point to memory locations. Since there are only 4096 memory locations, we will make use  of only 12 bits in this register.
-- There is an 8 bit 
+- There is an 8 bit Delay timer which is decremented at a rate of 60 Hz. 
+- There is also a 8-bit sound timer which is decremented at a rate of 60 Hz. It plays an audio sound until its value is 0. 
