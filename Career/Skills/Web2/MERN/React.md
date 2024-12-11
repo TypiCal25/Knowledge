@@ -17,4 +17,4 @@ There are two main features of React State:
 - The value is persisted in between renders
 - Any change to the state triggers a re-render of the component.
 - State is completely isolated to each component.
-
+# Rendering P
