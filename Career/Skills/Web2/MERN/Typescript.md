@@ -25,3 +25,7 @@ The `typeof` operator returns a list of
 4. `bigint`
 5. `symbol`
 6. `undefined`
+7. `object`
+8. `function`
+
+Type guards help TypeScript "Narrow" 
