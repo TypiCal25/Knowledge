@@ -33,3 +33,5 @@ Type guards help TypeScript "Narrow" down the types.
 In order to define a User-Defined type guard, we would need to define a function whose return type is a **type predicate**. 
 
 When every type in a Union has a common property with literal types, TypeScript considers it to be a Discriminated Union, and can infer the type based on the values of this property. 
+
+The `never` data type 
