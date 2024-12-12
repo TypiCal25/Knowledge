@@ -28,4 +28,4 @@ The `typeof` operator returns a list of
 7. `object`
 8. `function`
 
-Type guards help TypeScript "Narrow" 
+Type guards help TypeScript "Narrow" down the types
