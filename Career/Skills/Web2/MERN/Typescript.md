@@ -54,3 +54,4 @@ type GreetingFunction = {
 	new (a: string): SomeObject;
 }
 ```
+
