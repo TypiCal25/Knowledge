@@ -40,6 +40,5 @@ In JavaScript, it is important to note that everything is an Object. By this pro
 
 In TypeScript, the easiest way to describe a function is through a function expression. 
 ## Managing The Properties Along With The Call Signature
-```
-type Descrip
+```ts title={}
 ```
