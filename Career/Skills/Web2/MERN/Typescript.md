@@ -46,9 +46,11 @@ type GreetingFunction = {
 	(a: string): void;
 }
 ```
+
 ```js fold title:Call_Signature_With_Constructor_Description.ts
 type GreetingFunction = {
 	description: string;
-	(a)
+	(a: string): void;
+	new (a: string): SomeObject;
 }
 ```
