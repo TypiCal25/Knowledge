@@ -42,7 +42,13 @@ In TypeScript, the easiest way to describe a function is through a function expr
 ## Managing The Properties Along With The Call Signature
 ```js fold title:Call_Signature_Description_With_Properties.ts
 type GreetingFunction = {
-	description: string,
-	(a: string): void 
+	description: string;
+	(a: string): void;
+}
+```
+```js fold title:Call_Signature_With_Constructor_Description.ts
+type GreetingFunction = {
+	description: string;
+	(a)
 }
 ```
