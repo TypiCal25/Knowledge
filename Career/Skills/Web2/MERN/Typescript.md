@@ -36,4 +36,6 @@ When every type in a Union has a common property with literal types, TypeScript 
 
 The `never` data type is assignable to every type but no type is assignable to the `never` data type. 
 # Functions
-In JavaScript, it is important to note that everything is an Object. By this property, a function can have properties as well as be callable. Keeping this in mind, a function can also be called as a Constructor. If we want to set it capable of creating an object, then you
+In JavaScript, it is important to note that everything is an Object. By this property, a function can have properties as well as be callable. Keeping this in mind, a function can also be called as a Constructor. If we want to set it capable of creating an object, then it should be part of its prototype property.
+
+In TypeScript, the easiest way to describe a function is through a function expression. 
