@@ -20,4 +20,5 @@ This is a necessary but not sufficient condition for an encryption scheme to be 
 # Principles of Modern Cryptography
 In earlier times, the security of a scheme was not well defined.
 
-> If you don't understand what you want to achieve, then how will you know when (or if)
+> If you don't understand what you want to achieve, then how will you know when (or if) you have achieved it.
+
