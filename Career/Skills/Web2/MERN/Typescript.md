@@ -15,3 +15,13 @@ In TypeScript, there are also the types `String, Boolean, Number` which are also
 Typescript has a lot of **contextual type-inference**. 
 # Union Types
 A union type is a type formed from two or more other types, representing values that may by any one of those types. Its sort of like the **OR** operator.
+# Type Guards
+Using the `typeof` operator in JavaScript, we can implement type guards in TypeScript. This is of great importance and makes code bases so much more secure.
+
+The `typeof` operator returns a list of 
+1. `string`
+2. `number`
+3. `boolean`
+4. `bigint`
+5. `symbol`
+6. `undefined`
