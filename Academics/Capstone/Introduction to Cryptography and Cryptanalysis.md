@@ -21,5 +21,6 @@ This is a necessary but not sufficient condition for an encryption scheme to be 
 ## Formal Definition
 In earlier times, the security of a scheme was not well defined.
 > If you don't understand what you want to achieve, then how will you know when (or if) you have achieved it.
-##
+
+There can be multiple ways to define security when it comes to encryption schemes. The **right** one depends on the context. 
 
