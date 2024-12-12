@@ -13,3 +13,6 @@ This is a principle that goes against regular thought but it actually does make 
 > The cipher method must not be required to be secret, and it must be able to fall into the hands of the enemy without any inconvenience.
 
 **The security of the algorithm should solely rely on the secrecy of the key.**
+# Sufficient Key-Space Principle
+Any secure encryption scheme must have a key space that is sufficiently large to make an exhaustive-search attack infeasible.
+
