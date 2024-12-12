@@ -28,4 +28,6 @@ The `typeof` operator returns a list of
 7. `object`
 8. `function`
 
-Type guards help TypeScript "Narrow" down the types
+Type guards help TypeScript "Narrow" down the types.
+## User Defined Type Guards
+In order to define a User-Defined type guard, we would need to define a function whose return type is a **type predicate**. 
