@@ -34,4 +34,6 @@ In order to define a User-Defined type guard, we would need to define a function
 
 When every type in a Union has a common property with literal types, TypeScript considers it to be a Discriminated Union, and can infer the type based on the values of this property. 
 
-The `never` data type is assignable to every type but no type is assignable to the `never` data type.  
+The `never` data type is assignable to every type but no type is assignable to the `never` data type. 
+# Functions
+In JavaScript, it is important to note that everything is an Object. By this property, a function can have properties as well as be callable. Keeping this in mind, a function can also be called as a Constructor. If we want to set it capable of creating an object, then you
