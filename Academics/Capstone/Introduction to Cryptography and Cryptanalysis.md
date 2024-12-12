@@ -12,5 +12,4 @@ This is a principle that goes against regular thought but it actually does make 
 
 > The cipher method must not be required to be secret, and it must be able to fall into the hands of the enemy without any inconvenience.
 
-**The security of the algorithm should solely rely on the secrecy of the key**
-
+**The security of the algorithm should solely rely on the secrecy of the key.**
