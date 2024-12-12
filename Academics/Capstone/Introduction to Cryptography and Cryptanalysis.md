@@ -7,5 +7,3 @@ Formally, a private key encryption scheme is defined by specifying a message spa
 3. The Decryption Algorithm
 ## Key Generation Algorithm
 The Key Generation Algorithm is a **probabilistic algorithm** that outputs a key $k$ chosen according to some distribution. Its given by $\text{Gen}$
-## Encryption Algorithm
-This fun
