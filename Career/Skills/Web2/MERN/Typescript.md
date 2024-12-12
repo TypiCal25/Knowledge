@@ -40,8 +40,9 @@ In JavaScript, it is important to note that everything is an Object. By this pro
 
 In TypeScript, the easiest way to describe a function is through a function expression. 
 ## Managing The Properties Along With The Call Signature
-```ts fold title:Call_Signature_Description_With_Prop
+```js fold title:Call_Signature_Description_With_Properties.ts
 type GreetingFunction = {
-	
+	description: string,
+	(a: string): void 
 }
 ```
