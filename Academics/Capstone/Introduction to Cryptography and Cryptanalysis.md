@@ -47,4 +47,6 @@ The encryption schemes which are effective even against an adversary with an unb
 Modern random-number generation proceeds in taking a high-entropy set of data after which the data is made uniform through some procedures.
 
 Consider the case, where we have some  high-entropy data considering coin flips but in which the data is non-uniform. Let this be the case of a 1000 coin flips. In this case, consider that a $1$ is outputted with a probability of $p$. In order to make the high-entropy data to be completely uniform, we can combine them in pairs in order to generate the random numbers. 
+## Defining Perfect Secrecy
+We assume that there is an adversary who knows the probab
 
