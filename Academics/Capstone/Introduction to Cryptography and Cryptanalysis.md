@@ -52,4 +52,6 @@ We assume that there is an adversary who knows the probability distribution of t
 
 Now assume that the adversary can eavesdrop on the communication channel in between the honest parties. In doing so, he basically has a cipher-text-only attack setup. For perfect secrecy, the posteriori probability of a certain message being sent should be the same as the priori probability of a message being sent, i.e, there should be no extra information that is leaked to the adversary from this cipher text. 
 
+An encryption scheme (Gen, Enc, Dec) with message space M is perfectly secret if for every probability distribution over M, every message m belonging to M, and every cipher-text c belonging to C, for which Pr[C  = c] > 0
+
 
