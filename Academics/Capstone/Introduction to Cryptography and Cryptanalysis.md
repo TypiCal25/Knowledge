@@ -41,3 +41,6 @@ By their very nature, assumptions are statements that are not proven but are ins
 1. Validation of Assumptions
 2. Comparison of Schemes
 3. Understanding the Necessary Assumptions
+# Perfectly Secret Encryption
+The encryption schemes which are effective even against an adversary with an unbounded computation power are known as perfectly secret encryption schemes.
+
