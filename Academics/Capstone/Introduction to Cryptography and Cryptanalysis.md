@@ -24,4 +24,6 @@ In earlier times, the security of a scheme was not well defined.
 
 There can be multiple ways to define security when it comes to encryption schemes. The **right** one depends on the context. 
 1. It should be impossible for an attacker to recover the key.
-2. 
+2. It should be impossible for an attacker to recover the entire plain-text from the cipher text
+3. It should be impossible for an attacker to recover any character of the plain text from the cipher text. In other words, this means that the attacker should not be able to gain any extra information about the underlying plain text from the cipher text itself.
+4. 
