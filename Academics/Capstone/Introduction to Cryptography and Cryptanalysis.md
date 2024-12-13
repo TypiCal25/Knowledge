@@ -54,6 +54,9 @@ Now assume that the adversary can eavesdrop on the communication channel in betw
 
 An encryption scheme (Gen, Enc, Dec) with message space M is perfectly secret if for every probability distribution over M, every message m belonging to M, and every cipher-text c belonging to C, for which
 $$Pr[M = m | C= c] = Pr[M = m], \text{for } Pr[C=c] > 0$$
+This simplifies into,
+$$Pr[Enc_k(m) = c] = Pr[M = m]$$
+If you see the implications of this statement, it does add up. It just states that the probability of 
 
 
 
