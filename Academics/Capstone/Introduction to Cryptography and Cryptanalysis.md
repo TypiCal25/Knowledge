@@ -43,4 +43,5 @@ By their very nature, assumptions are statements that are not proven but are ins
 3. Understanding the Necessary Assumptions
 # Perfectly Secret Encryption
 The encryption schemes which are effective even against an adversary with an unbounded computation power are known as perfectly secret encryption schemes.
-
+## How Is Randomness Generated?
+Modern random-number generation proceeds in 
