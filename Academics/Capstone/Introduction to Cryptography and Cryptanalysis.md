@@ -37,3 +37,7 @@ This specifies what **power** the attacker has but not the strategy that he is u
 3. Chosen Plain Text Attack
 4. Chosen Cipher Text Attack
 ## Precise Assumptions
+By their very nature, assumptions are statements that are not proven but are instead conjectured to be true. 
+1. Validation of Assumptions
+2. Comparison of Schemes
+3. 
