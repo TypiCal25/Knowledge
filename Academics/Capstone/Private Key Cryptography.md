@@ -12,4 +12,4 @@ The interpretation of concrete security claims is difficult though. It can be su
 # Asymptotic Approach
 This approach is rooted in the study of **complexity theory**.
 
-In this approach, we introduce a security parameter $n$ which is used to parameterizes both
+In this approach, we introduce a security parameter $n$ which is used to parameterizes, both, the honest parties as well as the adversaries. 
