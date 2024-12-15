@@ -18,3 +18,5 @@ It is assumed that the adversaries know of this security parameter as well.
 
 Usually, an asymptotic approach can very easily be converted into the concrete simply by plugging in values for the security parameter of $n$. In doing so, an honest party can very easily generate a new key with a newer security parameter value.
 ## Efficient Algorithms
+For an algorithm to be considered **efficient**, it should run in polynomial time.
+
