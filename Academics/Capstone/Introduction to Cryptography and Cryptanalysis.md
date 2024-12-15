@@ -60,4 +60,7 @@ If you see the implications of this statement, it does add up. It just states th
 # Limitations of Perfect Secrecy
 Perfect Secrecy ensures that the size of the Key Space $K$ should be greater than or equal to the size of the Message Space $M$. 
 # Shannon's Definition of Perfect Secrecy
-He basically said that for a perfectly s
+He basically said that for a perfectly secret encryption scheme,
+1. Every key belonging to the key space must be chosen with equal probability by the probabilistic Gen algorithm.
+2. For every message $m$ and cipher-text pair $c$, there is only one unique key in the key space. 
+3. 
