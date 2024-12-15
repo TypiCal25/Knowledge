@@ -19,7 +19,9 @@ It is assumed that the adversaries know of this security parameter as well.
 Usually, an asymptotic approach can very easily be converted into the concrete simply by plugging in values for the security parameter of $n$. In doing so, an honest party can very easily generate a new key with a newer security parameter value.
 ## Efficient Algorithms
 For an algorithm to be considered **efficient**, it should run in polynomial time compared to its total input.
-
+### Probabilistic Algorithms
 We assume all algorithms to be probabilistic. But what does this mean? This basically means that every algorithm will have access to a random, unbiased bit at every single computation step.
-
+#### Why Assume Probabilistic Algorithms?
+1. Cryptography is wholly based on randomness
+2. Randomness gives the advantage tot he
 
