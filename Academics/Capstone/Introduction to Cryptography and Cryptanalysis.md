@@ -59,3 +59,5 @@ $$Pr[Enc_k(m) = c] = Pr[M = m]$$
 If you see the implications of this statement, it does add up. It just states that the probability of the message being $m$ given that the cipher-text is $c$ should be not different from the initial probability of the message being $m$.
 # Limitations of Perfect Secrecy
 Perfect Secrecy ensures that the size of the Key Space $K$ should be greater than or equal to the size of the Message Space $M$. 
+# Shannon's Definition of Perfect Secrecy
+He basically said that for a perfectly s
