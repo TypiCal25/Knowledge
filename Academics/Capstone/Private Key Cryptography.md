@@ -5,3 +5,5 @@ Perfect secrecy is usually very limited and not very useful in general. In this 
 Perfect secrecy demands that absolutely no information should be leaked out to any eavesdropper with an unbounded computational power. 
 
 Computational Security on the other hand demands that an encryption scheme would be considered secure if it leaked out only a little information about the encrypted cipher-text to an eavesdropper with a bounded computational power. This is usually more than sufficient for real-world applications.
+
+> A cryptographic encryption scheme is said to be $(t, \e$
