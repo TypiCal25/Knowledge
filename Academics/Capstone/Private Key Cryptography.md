@@ -23,5 +23,6 @@ For an algorithm to be considered **efficient**, it should run in polynomial tim
 We assume all algorithms to be probabilistic. But what does this mean? This basically means that every algorithm will have access to a random, unbiased bit at every single computation step.
 #### Why Assume Probabilistic Algorithms?
 1. Cryptography is wholly based on randomness
-2. Randomness gives the advantage tot he
+2. Randomness gives the advantage to the attackers.
+
 
