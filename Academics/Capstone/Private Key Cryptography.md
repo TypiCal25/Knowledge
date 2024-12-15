@@ -8,5 +8,7 @@ Computational Security on the other hand demands that an encryption scheme would
 
 > A cryptographic encryption scheme is said to be $(t, \epsilon )$-secure if an adversary running for time t succeeds in breaking the encryption scheme with probability at most $\epsilon$.
 
-The interpretation of co
+The interpretation of concrete security claims is difficult though. It can be subject to interpretation and has a whole lot of factors that need to be taken care of.
+# Asymptotic Approach
+
 
