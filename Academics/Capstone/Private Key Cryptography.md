@@ -25,4 +25,6 @@ We assume all algorithms to be probabilistic. But what does this mean? This basi
 1. Cryptography is wholly based on randomness
 2. Randomness gives the advantage to the attackers.
 
+With this, we have the proper definition of computationally secure algorithms in the asymptotic defintion.
 
+> A scheme is secure if for every probabilistic polynomial-time adversary $A$ 
