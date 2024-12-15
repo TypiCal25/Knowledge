@@ -10,5 +10,4 @@ Computational Security on the other hand demands that an encryption scheme would
 
 The interpretation of concrete security claims is difficult though. It can be subject to interpretation and has a whole lot of factors that need to be taken care of.
 # Asymptotic Approach
-
-
+This approach is rooted in the $asymptoa$
