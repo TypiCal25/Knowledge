@@ -1,0 +1,1 @@
+I need to find and apply to research internships during this semester. In doing so, I have one of two options. 
