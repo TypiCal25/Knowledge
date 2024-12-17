@@ -8,4 +8,4 @@ We usually store the prefix sum in a separate array.
 # Difference Arrays
 Difference arrays can be used in order to make range updates in a O(1) time complexity and to process all of these updates in a O(n) time complexity. This is very important for some div 2B contests.
 
-Remember these concepts for 
+Remember these concepts for many questions.
