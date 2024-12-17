@@ -5,4 +5,5 @@ It is a power technique that can be used to **pre-process** an array to facilita
 Prefix refers to the set of elements that include the current one and the previous elements.
 
 We usually store the prefix sum in a separate array.
-# 
+# Difference Arrays
+Difference arrays can be used in order to make range updates in a O(1) time complexity and to 
