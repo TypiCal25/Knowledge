@@ -10,3 +10,5 @@ Satisfiability problem is considered to be the base case for the other problems.
 
 If any NP-hard problem is solved, then every other NP-hard problem is also solved.
 
+NP-Complete problems are those problems which have an NP Algorithm in place.
+
