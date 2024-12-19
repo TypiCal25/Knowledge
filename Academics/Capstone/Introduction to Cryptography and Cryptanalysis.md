@@ -34,7 +34,7 @@ There can be multiple ways to define security when it comes to encryption scheme
 This specifies what **power** the attacker has but not the strategy that he is using.
 1. **Cipher Text Only Attack**: This is the most basic type of attack, and refers to a scenario where the adversary just observes a cipher text and tries to get some information from it.
 2. **Known Plain Text Attack**: This is the type of attack in which the adversary gains knowledge of a plain-text/cipher-text pair (one or more) using a key. The aim of the adversary is then to deduce information about the underlying plain-text of some other cipher-text generated using the same key.
-3. **Chosen Plain Text Attack**: In this type of attack, the attacker is able to gain information about plain-text/cipher-tex
+3. **Chosen Plain Text Attack**: In this type of attack, the attacker is able to gain information about plain-text/cipher-texts of his/her choice.
 4. Chosen Cipher Text Attack
 ## Precise Assumptions
 By their very nature, assumptions are statements that are not proven but are instead conjectured to be true. 
