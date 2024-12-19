@@ -1,1 +1,1 @@
-A stream c
+A stream cipher can be used to instantiate a pseudo-random generator.
