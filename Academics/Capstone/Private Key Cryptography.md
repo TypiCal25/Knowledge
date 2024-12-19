@@ -31,3 +31,5 @@ With this, we have the proper definition of computationally secure algorithms in
 # Getting Into Newer Definitions
 In most cases, the algorithm $\text{Gen}(1^n)$ simply outputs a uniform n-bit string as the key. 
 
+A private key encryption scheme is a tuple of probabilistic polynomial-time algorithms. 8
+
