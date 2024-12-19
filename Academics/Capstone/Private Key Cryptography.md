@@ -43,4 +43,4 @@ $h(m)$ is something like a history function. It is basically just an abstract fu
 
 $f(m)$ models the information that the adversary wants to find out. 
 
-Basically we just have to show that the chance (or the probability) that 
+Basically we just have to show that the chance (or the probability) that the adversary can find out f(m) using $c$ and $h(m)$ is the same as if the adversary had only $h(m)$, basically giving us the fact that the cipher-text did not provide any additional information. 
