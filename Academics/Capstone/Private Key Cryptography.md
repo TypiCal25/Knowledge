@@ -34,6 +34,8 @@ In most cases, the algorithm $\text{Gen}(1^n)$ simply outputs a uniform n-bit st
 A private key encryption scheme is a tuple of probabilistic polynomial-time algorithms. 
 
 # Semantic Security
+If the cipher-text does not reveal any additional information about the underlying plain-text.
+
 The full definition of semantic security is very important. 
 1. The definition allows the length of the plain-text to depend on the security parameter. This allows for essentially arbitrary distributions over plain-texts.
  
