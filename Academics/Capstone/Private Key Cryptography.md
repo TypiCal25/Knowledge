@@ -30,3 +30,4 @@ With this, we have the proper definition of computationally secure algorithms in
 > A scheme is secure if for every probabilistic polynomial-time adversary $A$ carrying out an attack of some formally specified type, and for every positive polynomial p, there exists an integer N such that when $n > N$, the probability that $A$ succeeds in the attack is less than $\dfrac{1}{p(n)}$
 # Getting Into Newer Definitions
 In most cases, the algorithm $\text{Gen}(1^n)$ simply outputs a uniform n-bit string as the key. 
+
