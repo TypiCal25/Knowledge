@@ -1,4 +1,5 @@
 A pseudo-random generator $G$ is an efficient (which means it runs in polynomial time), **deterministic** algorithm that transforms a short uniform string, into a longer, **uniform-looking** output string.
 
 The key point is that it is deterministic. In this sense, if you feed the same seed into a Pseudo-random generator, then it will output the same output string. This is the exact meaning of a deterministic function.
-
+# But What Exactly is a Pseudo-Random String?
+The basic realization is that a pseudo-random string should be able to pass all effic
