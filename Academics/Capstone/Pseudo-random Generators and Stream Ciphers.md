@@ -2,4 +2,5 @@ A pseudo-random generator $G$ is an efficient (which means it runs in polynomial
 
 The key point is that it is deterministic. In this sense, if you feed the same seed into a Pseudo-random generator, then it will output the same output string. This is the exact meaning of a deterministic function.
 # But What Exactly is a Pseudo-Random String?
-The basic realization is that a pseudo-random string should be able to pass all effic
+The basic realization is that a pseudo-random string should be able to pass all efficient statistical distinguishing tests. 
+## What is a Distribution in Strings
