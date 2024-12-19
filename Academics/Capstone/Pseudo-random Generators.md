@@ -15,4 +15,6 @@ This is basically the main intuition behind the whole concept as *as long as we 
 
 [[Stream Ciphers]]
 # A Secure Private Key Encryption Scheme using a Pseudo-Random Generator
-Consider the one-time p
+Consider the one-time pad encryption scheme. This is the strongest mode of encryption that we will ever be able to achieve. But how do we do this without having a key that is at least as long as the message?
+
+We can make use of a pseudo-random 
