@@ -6,3 +6,6 @@ P-Algorithms are the deterministic algorithms that have been solved in polynomia
 
 NP-Algorithms are the non-deterministic algorithms that are in polynomial time.
 
+Satisfiability problem is considered to be the base case for the other problems.
+
+
