@@ -12,3 +12,5 @@ Basically, we need to find and ensure that informally,
 > A pseudo-random string is just as good as a uniform-string.
 
 This is basically the main intuition behind the whole concept as *as long as we consider polynomial-time observers.*
+
+[[Pseudo-random Generators]]
