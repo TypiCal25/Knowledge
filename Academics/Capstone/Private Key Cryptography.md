@@ -41,4 +41,6 @@ The full definition of semantic security is very important.
 
 $h(m)$ is something like a history function. It is basically just an abstract function that models the information that the adversary has about the plain-text from before.
 
-$f(m)$ models the information 
+$f(m)$ models the information that the adversary wants to find out. 
+
+Basically we just have to show that the chance (or the probability) that 
