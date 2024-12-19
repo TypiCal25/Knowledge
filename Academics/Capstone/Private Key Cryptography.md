@@ -38,4 +38,4 @@ If the cipher-text does not reveal any additional information about the underlyi
 
 The full definition of semantic security is very important. 
 1. The definition allows the length of the plain-text to depend on the security parameter. This allows for essentially arbitrary distributions over plain-texts.
- 
+$h(m)$ 
