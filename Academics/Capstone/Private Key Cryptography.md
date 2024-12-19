@@ -34,4 +34,5 @@ In most cases, the algorithm $\text{Gen}(1^n)$ simply outputs a uniform n-bit st
 A private key encryption scheme is a tuple of probabilistic polynomial-time algorithms. 
 
 # Semantic Security
-The full definition of semantic security gur
+The full definition of semantic security is very important. 
+1. The definition 
