@@ -7,3 +7,4 @@ The basic realization is that a pseudo-random string should be able to pass all 
 A distribution basically means that you are assigning a probability to every string.
 ## What is Sampling?
 Sampling basically means picking a string from this distribution according to the probability distribution.
+# How Do We Judge Pseudo-
