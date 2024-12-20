@@ -8,4 +8,6 @@ One list is picked uniformly and all the messages are encrypted. Then the advers
 $$Pr[PrivK_{A, \Pi}^{\text{mult}} = 1]\le \dfrac{1}{2} + negI(n)$$
 where all the encryptions for all the messages are done with the same key k.
 ## What Does this Imply?
-It implies, that even after having the cipher-texts of all the messages, the adversary is still not able to get to know which ciph
+It implies, that even after having the cipher-texts of all the messages, the adversary is still not able to get to know which list of messages has been encrypted. In doing so, he should also not be able to differentiate between any single pair of messages that have been encrypted and cannot use the information together as well. This is a very very strong definition of security. 
+
+The previous version of the experiment with just one pair of messages is basically a simplified version of this stronger definition of security.
