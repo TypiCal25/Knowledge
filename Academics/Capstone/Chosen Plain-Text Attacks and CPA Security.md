@@ -1,0 +1,1 @@
+In chosen plain-text attacks, the adversary is able to obtain cipher-texts for plain-texts of his/her choice. This is either by influencing the me
