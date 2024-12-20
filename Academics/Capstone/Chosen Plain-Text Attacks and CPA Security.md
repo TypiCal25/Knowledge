@@ -6,4 +6,6 @@ There are many real-life examples where chosen plain-text attacks have been succ
 # Indistinguishability Experiment for CPA Attacks
 It is pretty much similar to the initial indistinguishability experiment, but the only difference is that the adversary has access to the encryption oracle as well. 
 ## What is the Encryption Oracle
-It is a sort of black box with which the adversary can interact. It returns the $\text{Enc}_k(\cdot)$ output 
+It is a sort of black box with which the adversary can interact. It returns the $\text{Enc}_k(\cdot)$ output in which the key $k$ is unknown to the adversary.
+
+This is a much more powerful experiment than the other one :) 
