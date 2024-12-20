@@ -9,3 +9,5 @@ It is pretty much similar to the initial indistinguishability experiment, but th
 It is a sort of black box with which the adversary can interact. It returns the $\text{Enc}_k(\cdot)$ output in which the key $k$ is unknown to the adversary.
 
 This is a much more powerful experiment than the other one :) 
+
+Basically, in this type of an attack mode, the adversary can *query* the oracle with 
