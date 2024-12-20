@@ -14,4 +14,6 @@ The previous version of the experiment with just one pair of messages is basical
 ## Breaking the One-Time Pad as being Insecure for Multiple Communications
 In the case of the one-time pad, it is very easy to show that it leaks out some information about the plain-texts itself. 
 
-Consider an adversary A who outputs 2 separate lists of messages. Since these messages can be anything, the first message contains the list of two same m
+Consider an adversary A who outputs 2 separate lists of messages. Since these messages can be anything, the first message contains the list of two same messages, while the other does not.
+
+Since the one-time pad scheme is deterministic in nature, this proves that the messages would be the same. 
