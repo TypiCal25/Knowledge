@@ -6,3 +6,6 @@ Instead of having just two messages, the adversary presents a 2 lists of message
 $$|m_{0i}|=|m_{1i}|$$
 One list is picked uniformly and all the messages are encrypted. Then the adversary has to output which list has been encrypted. It is similarly shown that,
 $$Pr[PrivK_{A, \Pi}^{\text{mult}} = 1]\le \dfrac{1}{2} + negI(n)$$
+where all the encryptions for all the messages are done with the same key k.
+## What Does this Imply?
+It implies, that even after having the cipher-texts of all the messages, the adversary is still not able to get to know which ciph
