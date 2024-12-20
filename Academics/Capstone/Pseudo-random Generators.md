@@ -22,4 +22,4 @@ If a PPT-adversary was able to distinguish between the two messages, then that w
 # Pseudo-Random Functions
 These are the generalizations of pseudo-random generators. But it does not make any sense to call a function random, does it?
 ## How Does a Keyed Function Induce Pseudo-Randomness?
-A keyed function $F$ is known as pseudo-random if the function $F_k$ is indistinguishable from a function chosen uniformly at random from the set of all functions having the same d
+A keyed function $F$ is known as pseudo-random if the function $F_k$ is indistinguishable from a function chosen uniformly at random from the set of all functions having the same domain and range.
