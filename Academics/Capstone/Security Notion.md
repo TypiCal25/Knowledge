@@ -17,3 +17,4 @@ In the case of the one-time pad, it is very easy to show that it leaks out some 
 Consider an adversary A who outputs 2 separate lists of messages. Since these messages can be anything, the first message contains the list of two same messages, while the other does not.
 
 Since the one-time pad scheme is deterministic in nature, this proves that the messages would be the same. 
+# No Deterministic Encryption Scheme is Computationally Secure.
