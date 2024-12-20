@@ -5,3 +5,5 @@ In chosen plain-text attacks, the adversary is able to obtain cipher-texts for p
 There are many real-life examples where chosen plain-text attacks have been successful.
 # Indistinguishability Experiment for CPA Attacks
 It is pretty much similar to the initial indistinguishability experiment, but the only difference is that the adversary has access to the encryption oracle as well. 
+## What is the Encryption Oracle
+It is a sort of black box with which the adversary can interact. It returns the $\text{Enc}_k(\cdot)$ output 
