@@ -26,4 +26,5 @@ A keyed function $F$ is known as pseudo-random if the function $F_k$ is indistin
 
 There are a total of $2^{n\cdot 2^n}$ uniform functions that map n-bit strings to other n-bit strings. This can be very easily calculated with a little permutation and combination mathematics. There is also a cool and different way to look as there being a string of length $n2^n$. Each of this string represents a single string.
 ## How Do You Define A Pseudo-Random Function?
-If a polynomial time 
+If every polynomial time distinguishing algorithm outputs 1 with almost the same probability as for a uniform function picked that has the same domain and the same range.
+
