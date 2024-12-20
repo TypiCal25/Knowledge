@@ -20,4 +20,5 @@ We can make use of a pseudo-random generator to make sure we can generate a key 
 
 If a PPT-adversary was able to distinguish between the two messages, then that would implicitly mean that he is being able to distinguish between the pseudo-random string and the uniform string in polynomial time - which goes against the definition of Pseudo-random generator G.
 # Pseudo-Random Functions
-These are the generalizations of pseudo-random generators. 
+These are the generalizations of pseudo-random generators. But it does not make any sense to call a function random, does it?
+
