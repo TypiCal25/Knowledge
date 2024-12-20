@@ -12,7 +12,6 @@ Basically, we need to find and ensure that informally,
 > A pseudo-random string is just as good as a uniform-string.
 
 This is basically the main intuition behind the whole concept as *as long as we consider polynomial-time observers.*
-
 [[Stream Ciphers]]
 # A Secure Private Key Encryption Scheme using a Pseudo-Random Generator
 Consider the one-time pad encryption scheme. This is the strongest mode of encryption that we will ever be able to achieve. But how do we do this without having a key that is at least as long as the message?
