@@ -22,4 +22,4 @@ If a PPT-adversary was able to distinguish between the two messages, then that w
 # Pseudo-Random Functions
 These are the generalizations of pseudo-random generators. But it does not make any sense to call a function random, does it?
 ## How Does a Keyed Function Induce Pseudo-Randomness?
-A keyed function F induces a natural distribution 
+A keyed function $F$ 
