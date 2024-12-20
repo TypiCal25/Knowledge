@@ -11,3 +11,5 @@ It is a sort of black box with which the adversary can interact. It returns the 
 This is a much more powerful experiment than the other one :) 
 
 Basically, in this type of an attack mode, the adversary can *query* the oracle with any plain-texts of his/her choice.
+
+**It is very important to note that if an encryption-scheme is CPA secure for one encryption, then it is also CPA secure for multiple encryptions, unlike **
