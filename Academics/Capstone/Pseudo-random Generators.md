@@ -18,4 +18,4 @@ Consider the one-time pad encryption scheme. This is the strongest mode of encry
 
 We can make use of a pseudo-random generator to make sure we can generate a key of the required length.
 
-If a PPT-adversary was able to distinguish between the two messages, then that would implicitly mean that he is being able to distinguish between t
+If a PPT-adversary was able to distinguish between the two messages, then that would implicitly mean that he is being able to distinguish between the pseudo-random string and the uniform string in polynomial time - which goes against the definition of Pseudo-random generator G.
