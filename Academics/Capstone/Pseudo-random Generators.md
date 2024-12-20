@@ -25,4 +25,5 @@ These are the generalizations of pseudo-random generators. But it does not make 
 A keyed function $F$ is known as pseudo-random if the function $F_k$ is indistinguishable from a function chosen uniformly at random from the set of all functions having the same domain and range.
 
 There are a total of $2^{n\cdot 2^n}$ uniform functions that map n-bit strings to other n-bit strings. This can be very easily calculated with a little permutation and combination mathematics. There is also a cool and different way to look as there being a string of length $n2^n$. Each of this string represents a single string.
-
+## How Do You Define A Pseudo-Random Function?
+If a polynomial time 
