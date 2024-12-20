@@ -5,4 +5,4 @@ In every definition of security, there are two main things that we have to worry
 Instead of having just two messages, the adversary presents a 2 lists of messages, where each corresponding message in both the lists has the same length, that is,
 $$|m_{0i}|=|m_{1i}|$$
 One list is picked uniformly and all the messages are encrypted. Then the adversary has to output which list has been encrypted. It is similarly shown that,
-$$Pr[PrivK_{A, \Pi}]$$
+$$Pr[PrivK_{A, \Pi}^{\text{mult}} = 1]\le \dfrac{1}{2} + negI(n)$$
