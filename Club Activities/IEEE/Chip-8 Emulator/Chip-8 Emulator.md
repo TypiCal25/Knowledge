@@ -16,4 +16,4 @@ There is a stack that is stored as part of the main memory. This is stored in th
 
 This is how the stack pointer works.
 
-Subne
+Subnesting-routines can be stored using this st
