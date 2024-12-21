@@ -12,4 +12,6 @@ The Chip-8 interpreter uses memory from 000 to 1FF to store the interpreter itse
 # How the Stack Pointer Works
 Source: [[Carl Hamacher - Computer Organisation and Architecture.pdf#page=79&selection=13,0,13,6|Carl Hamacher - Computer Organisation and Architecture, page 79]]
 
-There is a stack that is stored as part of the main memory. This is  
+There is a stack that is stored as part of the main memory. This is stored in the high to low memory addresses, through the stack pointer.
+
+This is the 
