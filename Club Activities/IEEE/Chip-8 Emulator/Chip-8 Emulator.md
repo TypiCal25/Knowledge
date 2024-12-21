@@ -9,4 +9,7 @@ Chip-8 is simply just an interpreted programming language. It was originally int
 - There are also 16 8-bit general purpose registers from V0 to VF. VF is also used as a flag register by many of the instructions so it is better to not make use of this register.
 # Memory
 The Chip-8 interpreter uses memory from 000 to 1FF to store the interpreter itself. This means that we are storing the interpreter from memory location 0 to 512. 
+# How the Stack Pointer Works
+Source: [[Carl Hamacher - Computer Organisation and Architecture.pdf#page=79&selection=13,0,13,6|Carl Hamacher - Computer Organisation and Architecture, page 79]]
 
+There is a stack memory space that is usually implemented as part of the memory space. 
