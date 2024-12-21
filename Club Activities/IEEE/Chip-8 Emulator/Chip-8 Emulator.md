@@ -14,4 +14,6 @@ Source: [[Carl Hamacher - Computer Organisation and Architecture.pdf#page=79&sel
 
 There is a stack that is stored as part of the main memory. This is stored in the high to low memory addresses, through the stack pointer.
 
-This is the 
+This is how the stack pointer works.
+
+Subne
