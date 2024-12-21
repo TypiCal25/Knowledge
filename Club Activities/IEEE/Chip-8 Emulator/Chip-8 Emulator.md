@@ -12,4 +12,4 @@ The Chip-8 interpreter uses memory from 000 to 1FF to store the interpreter itse
 # How the Stack Pointer Works
 Source: [[Carl Hamacher - Computer Organisation and Architecture.pdf#page=79&selection=13,0,13,6|Carl Hamacher - Computer Organisation and Architecture, page 79]]
 
-There is a stack memory space that is usually implemented as part of the memory space. 
+There is a 
