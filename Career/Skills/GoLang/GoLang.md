@@ -20,4 +20,5 @@ Go also has built in support for complex numbers though this is more of an esote
 - Functions required typed arguments
 - There is support for variadic arguments
 - Functions in Go can support multiple return values that have to be separated by commas.
+- You can have named return variables. These are basically just predefined variables in your function that you can use to return. This does not mean that your receiving variables have to have the same name.
 - 
