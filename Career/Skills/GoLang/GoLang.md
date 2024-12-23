@@ -16,4 +16,4 @@ We have all the sized integer types such as
 - `uint64`
 
 Go also has built in support for complex numbers though this is more of an esoteric feature.
-
+# Functions in Go Lang
