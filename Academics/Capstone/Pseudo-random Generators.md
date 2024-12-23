@@ -34,4 +34,6 @@ Let there be a set of all permutations (which are also basically just **bijectio
 
 So now there is a restriction given the fact that the function is one-one. This means that the total number of functions that are possible is
 $$(2^n)!$$
-Let there be a function $F$ that is keyed. 
+Let there be a function $F$ that is keyed. It is called a keyed permutation if the length of the inputs and the lengths of the outputs are all equal.
+If the length of the key is also the same, then it is also known as a **length-preserving keyed function**.
+
