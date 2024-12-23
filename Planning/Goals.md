@@ -14,3 +14,8 @@ The [[Capstone Project]] is also ongoing and you have a lot of things to complet
 # Career Goals
 Academics is only one part of the bigger picture. In the end, there are a lot more things to deal with as well. Learning just academics is simply not enough anymore.
 
+- [ ] Learn Go Lang
+- [ ] Learn Rust
+- [ ] Apply for Linux Foundation Mentorship
+- [ ] Apply for Summer of Bitcoin
+- [ ] 
