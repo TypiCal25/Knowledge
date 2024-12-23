@@ -29,3 +29,5 @@ There are a total of $2^{n\cdot 2^n}$ uniform functions that map n-bit strings t
 If every polynomial time distinguishing algorithm outputs 1 with almost the same probability as for a uniform function picked that has the same domain and the same range.
 
 ![[Pseudo-Random Function Check.png]]
+# Pseudo-Random Permutations
+Let there be a set of all permutati
