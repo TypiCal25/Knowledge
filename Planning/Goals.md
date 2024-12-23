@@ -18,4 +18,5 @@ Academics is only one part of the bigger picture. In the end, there are a lot mo
 - [ ] Learn Rust
 - [ ] Apply for Linux Foundation Mentorship
 - [ ] Apply for Summer of Bitcoin
-- [ ] 
+- [ ] Apply for a Research Internship
+- [ ] Study Machine Learning
