@@ -17,3 +17,7 @@ We have all the sized integer types such as
 
 Go also has built in support for complex numbers though this is more of an esoteric feature.
 # Functions in Go Lang
+- Functions required typed arguments
+- There is support for variadic arguments
+- Functions in Go can support multiple return values that have to be separated by commas.
+- 
