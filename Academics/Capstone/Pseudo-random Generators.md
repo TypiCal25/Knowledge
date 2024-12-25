@@ -40,4 +40,6 @@ $$(2^n)!$$
 Let there be a function $F$ that is keyed. It is called a keyed permutation if the length of the inputs and the lengths of the outputs are all equal and the function is one-one.
 If the length of the key is also the same, then it is also known as a **length-preserving keyed function**.
 # A Modified One-Time Pad Encryption Scheme Based on Pseudo-Random Functions
-Let's just say that there is a scheme in which there is a pseudo-random function keyed function F that is being used. A random string $r$ is sent into this psedu
+Let's just say that there is a scheme in which there is a pseudo-random function keyed function F that is being used. A random string $r$ is sent into this pseudo-random permutation and that one-time pad is used in order to encrypt a message. We need to show and prove that this encryption scheme is CPA-secure.
+
+While being transmitted, both the encrypted message as well as the random string are 
