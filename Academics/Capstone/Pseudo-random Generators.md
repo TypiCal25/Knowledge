@@ -39,4 +39,5 @@ So now there is a restriction given the fact that the function is one-one. This 
 $$(2^n)!$$
 Let there be a function $F$ that is keyed. It is called a keyed permutation if the length of the inputs and the lengths of the outputs are all equal and the function is one-one.
 If the length of the key is also the same, then it is also known as a **length-preserving keyed function**.
-
+# A Modified One-Time Pad Encryption Scheme Based on Pseudo-Random Functions
+Let's just say that there is a scheme in which there is a pseudo-random function keyed function F that is being used. A random string $r$ is sent into this psedu
