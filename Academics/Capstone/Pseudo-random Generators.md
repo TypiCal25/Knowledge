@@ -31,6 +31,8 @@ If every polynomial time distinguishing algorithm outputs 1 with almost the same
 ![[Pseudo-Random Function Check.png]]
 # Pseudo-Random Permutations
 
+^617895
+
 ^b19181
 Let there be a set of all permutations (which are also basically just **bijections**). From prior mathematics, a bijection is simply just a function that is both one-one and onto. 
 
