@@ -32,7 +32,6 @@ If every polynomial time distinguishing algorithm outputs 1 with almost the same
 # Pseudo-Random Permutations
 
 ^b19181
-
 Let there be a set of all permutations (which are also basically just **bijections**). From prior mathematics, a bijection is simply just a function that is both one-one and onto. 
 
 So now there is a restriction given the fact that the function is one-one. This means that the total number of functions that are possible is
