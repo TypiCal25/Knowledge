@@ -4,4 +4,6 @@ The aim of a message authentication code is to prevent an adversary from modifyi
 But can we do this without adding any new information to the system? Nope.
 # Formal Model
 ## Intuition
-In the intuitive setup, 
+In the intuitive setup, the adversary, who is computationally bounded in this case, is allowed to eavesdrop on all messages. But at the same time, his job is to basically "fool" the honest parties that the message is valid and from the right source even if its not.
+
+To do this, the adversary basically needs to compute
