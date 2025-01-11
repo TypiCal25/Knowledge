@@ -8,4 +8,4 @@ In the intuitive setup, the adversary, who is computationally bounded in this ca
 
 To do this, the adversary basically needs to do forge a new tag on a message and send that over to the honest party in order to convince him/her that the message is valid
 ## Formalization
-We give the adversary 
+We give the adversary access to a MAC oracle with a key k (that )
