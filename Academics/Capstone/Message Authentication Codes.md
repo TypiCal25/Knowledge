@@ -10,4 +10,4 @@ To do this, the adversary basically needs to do forge a new tag on a message and
 ## Formalization
 We give the adversary access to a MAC oracle with a key k (that the adversary doesn't get to know), from which he can basically ask the tags for any message m.
 
-The scheme is broken if the adversary is able to forge a tag "t" on **any** message m which passes the verification test and that the adversary didn't already ask a 
+The scheme is broken if the adversary is able to forge a tag "t" on **any** message m which passes the verification test and that the adversary didn't already ask a tag on the given message m.
