@@ -3,4 +3,5 @@ The aim of a message authentication code is to prevent an adversary from modifyi
 
 But can we do this without adding any new information to the system? Nope.
 # Formal Model
-
+## Intuition
+In the intuitive setup
