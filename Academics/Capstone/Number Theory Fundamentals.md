@@ -23,6 +23,7 @@ A group is abelian if the operation is also commutative.
 
 There is the additive as well as multiplicative notation that can be used in the case of groups. In both of these cases, the familiar properties associated with addition and multiplication still do hold, but it is a lot simpler to see the end goal in terms of the Group definition.
 
+We can state that if there is an abelian group, then if you ree
 
 
 
