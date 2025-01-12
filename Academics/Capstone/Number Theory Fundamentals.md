@@ -13,7 +13,15 @@ $[a \text{ mod }N]$  is the remainder when a is divided by N. We write that a = 
 The whole point is that in modulo arithmetic, the regular arithmetic operations of addition, subtraction, and multiplication still work. So essentially what you can do is you can basically reduce and then perform the operations rather than perform the operations and then reduce. This can usually simplify a lot of the calculations. This is something that holds true even in the case of competitive programming.
 ## Invertible Numbers Modulo N
 If $bc \equiv 1 \mod{N}$ , then we define $c$ to be the modular inverse of the number $b$.
+# Group
+A group is simply just a set which consists of elements and follows the following properties:
+1. It is closed under the operation
+2. Associative under the operation
+3. Identity element exists
+4. Inverse element exists
+A group is abelian if the operation is also commutative.
 
+There is the additive as well as multiplicative notation that can be used in the case of gr
 
 
 
