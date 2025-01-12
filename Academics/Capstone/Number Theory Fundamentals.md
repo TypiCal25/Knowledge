@@ -12,7 +12,7 @@ $[a \text{ mod }N]$  is the remainder when a is divided by N. We write that a = 
 
 The whole point is that in modulo arithmetic, the regular arithmetic operations of addition, subtraction, and multiplication still work. So essentially what you can do is you can basically reduce and then perform the operations rather than perform the operations and then reduce. This can usually simplify a lot of the calculations. This is something that holds true even in the case of competitive programming.
 ## Invertible Numbers Modulo N
-
+If $bc \equiv 1 \mod{N}$ 
 
 
 
