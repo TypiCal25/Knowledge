@@ -7,7 +7,6 @@ This is basically just the remainder theorem. Furthermore, given the values a an
 
 The binary length of any integer is given by
 $$||N|| = \text{floor}(log_2 N) + 1$$
-
-
+I
 
  
