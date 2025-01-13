@@ -15,3 +15,6 @@ Compilers can only do very limited semantic analysis of programs. Because of thi
 
 ## Token Classes
 The goal of a lexical analyzer is to classify program sub-strings according to their class type. They basically communicate the tokens into the parser.
+
+The sub-strings are called lexemes. The goal of the lexical analyser is to identify the token class of a lexema.
+
