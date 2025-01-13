@@ -6,3 +6,5 @@ A compiler basically has five different phases.
 5. Code Generation
 
 This can very much be translated to how a human looks at an English sentence.
+# Lexical Analysis
+Lexical Analysis divides program text into "words" or "tokens"
