@@ -5,4 +5,4 @@ A compiler basically has five different phases.
 4. Optimization
 5. Code Generation
 
-This can very much be translated to how a
+This can very much be translated to how a human looks at an English sentence.
