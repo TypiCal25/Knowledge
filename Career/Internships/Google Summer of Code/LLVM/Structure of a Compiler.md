@@ -12,3 +12,6 @@ Lexical Analysis divides program text into "words" or "tokens"
 2. Grouping these tokens into meaningful context.
 
 Compilers can only do very limited semantic analysis of programs. Because of this, programming languages define very strict rules to avoid such ambiguities.
+
+## Token Classes
+The goal of a lexical analyzer is to classify program sub-strings according to their class type. They basically communicate the tokens into the parser.
