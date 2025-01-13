@@ -11,5 +11,4 @@ Lexical Analysis divides program text into "words" or "tokens"
 1. Understand the meaning of each token
 2. Grouping these tokens into meaningful context.
 
-Compilers can only do very limited semantic analysis of programs.
-
+Compilers can only do very limited semantic analysis of programs. Because of this, programming languages define very strict rules to avoid such ambiguities.
