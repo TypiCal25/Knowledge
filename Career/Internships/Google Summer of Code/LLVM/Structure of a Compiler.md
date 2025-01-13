@@ -8,3 +8,5 @@ A compiler basically has five different phases.
 This can very much be translated to how a human looks at an English sentence.
 # Lexical Analysis
 Lexical Analysis divides program text into "words" or "tokens"
+1. Understand the meaning of each token
+2. Grouping these tokens into meaningful context.
