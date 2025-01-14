@@ -18,3 +18,4 @@ The goal of a lexical analyzer is to classify program sub-strings according to t
 
 The sub-strings are called lexemes. The goal of the lexical analyser is to identify the token class of a lexema.
 
+[[Finite Automata]]
