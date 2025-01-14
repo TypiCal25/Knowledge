@@ -9,4 +9,4 @@ There are many ways in which you can deal with ambiguity. But what exactly is th
 ## What is Ambiguity in a Context-Free Grammar?
 When a single string can be represented through two different parsing trees, it causes an ambiguity because you are leaving it up to the compiler to decide which parse tree it has to generate the code for. This is extremely bad in general, because a compiler should be non-ambiguous and completely predictable in its functioning.
 ## How to Deal With Ambiguity?
-1. Re-write the context-free grammar to be non-am
+1. Re-write the context-free grammar to be non-ambiguous in nature.
