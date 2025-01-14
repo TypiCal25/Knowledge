@@ -1,0 +1,1 @@
+A parser traces the derivation of a sequence of tokens. But the 
