@@ -1,0 +1,1 @@
+The [[RSA Assumption]] is related to the [[Factoring Assumption]] 
