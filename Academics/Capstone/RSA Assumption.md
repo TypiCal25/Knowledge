@@ -4,4 +4,4 @@ The challenger creates a tuple $(N, p, q)$ where $p$ and $q$ are randomly chosen
 
 It can then be proved that the function $f_d(y) = [y^d \bmod N]$. This is the inverse function of the encryption function.
 # Drawbacks of the Plain RSA Encryption Scheme
-1. If we use the plain RSA encryption scheme, then it is deterministic in nature.
+1. If we use the plain RSA
