@@ -19,6 +19,7 @@ Let's say that we have, an NFA $A = (Q_N, \sum, \delta_N, q_0, F_N)$, that we wa
 
 Here we can say that
 1. Q_D is the power set formed from Q_N
-2. F_D is the set of 
+2. F_D is the set of states belonging to Q_D that have at least one state element belonging to F_N
+3. 
 
 
