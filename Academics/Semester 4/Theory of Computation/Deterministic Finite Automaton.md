@@ -11,5 +11,8 @@ A Deterministic Finite Automaton can also be represented in a tabular fashion. I
 # Extended Transition Function
 If $\delta$ is a transition function, then we can call the extended transition function $\hat{\delta}$. 
 
-Suppose $w$ is a string of the form $xa$, where $x$ belongs to $\s
-$$\Large \hat\delta(q, w) = \hat \delta(\hat\dleta)$$
+Suppose $w$ is a string of the form $xa$, where $x$ belongs to $\sum^*$ and $a$ is a symbol taken from the alphabet $\sum$, then we can have that,
+$$\Large \hat \delta(q ,\epsilon) = q$$
+$$\Large \hat\delta(q, w) = \hat \delta(\hat\delta(q, x), a)$$
+
+
