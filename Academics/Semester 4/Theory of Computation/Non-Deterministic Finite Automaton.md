@@ -22,6 +22,6 @@ Here we can say that
 2. $F_D$ is the set of states belonging to $Q_D$ that have at least one state element belonging to $F_N$
 3. Create a table and then convert it to a DFA :)
 
-
+7
 
 
