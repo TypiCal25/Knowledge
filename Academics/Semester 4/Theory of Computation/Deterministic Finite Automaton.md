@@ -5,4 +5,6 @@ A deterministic finite automaton consists of:
 4. A start state
 5. A set of final states $F, F\subseteq Q$  
 
-Therefore, a DFA is defined as a tuple $(Q, \sum, \delta, q_0, F)$
+Therefore, a DFA is defined as a tuple $(Q, \sum, \delta, q_0, F)$.
+# Tabular Representation
+A Deterministic Finite Automaton can also be represented in a tabular fashion. In this case, the rows represent the input states whi
