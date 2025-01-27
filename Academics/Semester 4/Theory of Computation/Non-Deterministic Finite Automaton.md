@@ -26,6 +26,8 @@ This is basically a transition in which no input symbol is consumed but a state 
 
 It makes the act of creating an NFA simpler, but it definitely doesn't add any power into the machine, i.e, the languages that it can recognize are still the same as a regular [[Deterministic Finite Automaton]]. 
 
-You can think of it as sort of an ""
+You can think of it as sort of an **optional** transition. This is probably one of the best ways to think about it.
+
+
 
 
