@@ -6,4 +6,5 @@ A Non-Deterministic finite automaton A consists of the following:
 3. It has a finite set of input symbols $\sum$
 4. It has a finite set of final states $F \subseteq Q$
 5. It has a transition function $\delta: Q \times \sum \rightarrow P(Q)$
-6. 
+# Extended Transition Function
+Similar to the case in the 
