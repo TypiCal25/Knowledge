@@ -7,4 +7,5 @@ A Non-Deterministic finite automaton A consists of the following:
 4. It has a finite set of final states $F \subseteq Q$
 5. It has a transition function $\delta: Q \times \sum \rightarrow P(Q)$
 # Extended Transition Function
-Similar to the case in the 
+Similar to the case in the [[Deterministic Finite Automaton]], we also have the extended transition function defined for [[Non-Deterministic Finite Automaton]]s. This is listed below.
+
