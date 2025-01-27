@@ -15,6 +15,6 @@ In this case, we have to define the set as the union of the extended transition 
 Here again, we have to define the Language of a NFA as $L(A)$ where $L(A)$ is defined as,
 $$\Large L(A) = \{w | \hat \delta (q_0, w) \cap F \neq \phi\}$$
 # How to convert an Non-Deterministic Finite Automaton to a Deterministic Finite Automaton
-
+Let's say that we have, an NFA $A = (Q_N, \sum, \delta_N, q_0, F_N)$ 
 
 
