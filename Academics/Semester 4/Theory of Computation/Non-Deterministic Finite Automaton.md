@@ -21,7 +21,7 @@ Here we can say that
 1. $Q_D$ is the power set formed from $Q_N$
 2. $F_D$ is the set of states belonging to $Q_D$ that have at least one state element belonging to $F_N$
 3. Create a table and then convert it to a DFA :)
-
-7
+# Epsilon Transitions in Non-Deterministic Finite Automaton
+This is basically a transition in which no input symbol is consumed but a state transition occurs from one state to another. Thi si
 
 
