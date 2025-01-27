@@ -5,3 +5,4 @@ A deterministic finite automaton consists of:
 4. A start state
 5. A set of final states $F, F\subseteq Q$  
 
+Therefore, a DFA is defined as a tuple $$
