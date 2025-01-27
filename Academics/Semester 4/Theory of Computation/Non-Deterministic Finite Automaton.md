@@ -9,3 +9,5 @@ A Non-Deterministic finite automaton A consists of the following:
 # Extended Transition Function
 Similar to the case in the [[Deterministic Finite Automaton]], we also have the extended transition function defined for [[Non-Deterministic Finite Automaton]]s. This is listed below.
 
+$$\Large \hat \delta (q, \epsilon) = {q}$$
+$$\Large $$
