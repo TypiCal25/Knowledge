@@ -29,3 +29,5 @@ It makes the act of creating an NFA simpler, but it definitely doesn't add any p
 You can think of it as sort of an **optional** transition. This is probably one of the best ways to think about it.
 ## Epsilon Closures
 Its basically the set of all elements that can be reached from a particular element through epsilon transitions.
+
+Basis: State $q$ is 
