@@ -8,5 +8,5 @@ A deterministic finite automaton consists of:
 Therefore, a DFA is defined as a tuple $(Q, \sum, \delta, q_0, F)$.
 # Tabular Representation
 A Deterministic Finite Automaton can also be represented in a tabular fashion. In this case, the rows represent the input states while the columns represent the symbols from the alphabet that are used for making the transition.
-
-
+# Extended Transition Function
+If $\delta$ is a transition function, then we can call the extended transition function $\hat{\delta}$. 
