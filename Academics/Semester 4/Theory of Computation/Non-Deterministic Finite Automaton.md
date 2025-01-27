@@ -12,5 +12,6 @@ Similar to the case in the [[Deterministic Finite Automaton]], we also have the 
 $$\Large \hat \delta (q, \epsilon) = {q}$$
 In this case, we have to define the set as the union of the extended transition function over each element of the set that comes out of the extended transition function for any state.
 # Language of a Non-Deterministic Finite Automaton
-
+Here again, we have to define the Language of a NFA as $L(A)$ where $L(A)$ is defined as,
+$$\Large L(A) = $$
 
