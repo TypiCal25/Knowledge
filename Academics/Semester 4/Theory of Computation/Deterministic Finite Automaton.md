@@ -14,5 +14,5 @@ If $\delta$ is a transition function, then we can call the extended transition f
 Suppose $w$ is a string of the form $xa$, where $x$ belongs to $\sum^*$ and $a$ is a symbol taken from the alphabet $\sum$, then we can have that,
 $$\Large \hat \delta(q ,\epsilon) = q$$
 $$\Large \hat\delta(q, w) = \hat \delta(\hat\delta(q, x), a)$$
-
-
+# Formal Definition of a Language
+With the definition of the extended transition function, we can now easily define the notion of a **lanu**
