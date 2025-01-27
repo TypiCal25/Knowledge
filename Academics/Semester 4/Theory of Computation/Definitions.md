@@ -7,4 +7,5 @@ The empty string is the string with zero occurrences of a symbol. It is denoted 
 ## Length of a String
 The length of a string $w$ is denoted by $|w|$.
 # Power of an Alphabet
-\sum^k 
+$\sum^k$ is used to denote the set consisting of all strings whose length is $k$.
+\sum^* is used to denote the set of all strings over an alphabet \sum. Moreover, \sum^+ is used to denote all non-empty strings over an alph
