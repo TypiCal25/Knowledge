@@ -10,4 +10,7 @@ A Non-Deterministic finite automaton A consists of the following:
 Similar to the case in the [[Deterministic Finite Automaton]], we also have the extended transition function defined for [[Non-Deterministic Finite Automaton]]s. This is listed below.
 
 $$\Large \hat \delta (q, \epsilon) = {q}$$
-$$\Large $$
+In this case, we have to define the set as the union of the extended transition function over each element of the set that comes out of the extended transition function for any state.
+# Language of a Non-Deterministic Finite Automaton
+
+
