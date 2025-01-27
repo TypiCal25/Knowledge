@@ -22,6 +22,10 @@ Here we can say that
 2. $F_D$ is the set of states belonging to $Q_D$ that have at least one state element belonging to $F_N$
 3. Create a table and then convert it to a DFA :)
 # Epsilon Transitions in Non-Deterministic Finite Automaton
-This is basically a transition in which no input symbol is consumed but a state transition occurs from one state to another. Thi si
+This is basically a transition in which no input symbol is consumed but a state transition occurs from one state to another. 
+
+It makes the act of creating an NFA simpler, but it definitely doesn't add any power into the machine, i.e, the languages that it can recognize are still the same as a regular [[Deterministic Finite Automaton]]. 
+
+You can think of it as sort of an ""
 
 
