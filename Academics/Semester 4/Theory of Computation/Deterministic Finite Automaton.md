@@ -15,4 +15,6 @@ Suppose $w$ is a string of the form $xa$, where $x$ belongs to $\sum^*$ and $a$ 
 $$\Large \hat \delta(q ,\epsilon) = q$$
 $$\Large \hat\delta(q, w) = \hat \delta(\hat\delta(q, x), a)$$
 # Formal Definition of a Language
-With the definition of the extended transition function, we can now easily define the notion of a **lanu**
+With the definition of the extended transition function, we can now easily define the notion of a **language** formally.
+
+The language of a DFA $A = (Q, \sum, \delta, q_0, F)$ is given by 
