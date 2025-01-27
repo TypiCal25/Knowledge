@@ -1,0 +1,1 @@
+A "Non-Deterministic" finite automaton has the *the power to be in multiple states at once*.  
