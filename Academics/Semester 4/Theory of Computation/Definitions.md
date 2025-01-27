@@ -11,4 +11,6 @@ $\sum^k$ is used to denote the set consisting of all strings whose length is $k$
 $\sum^*$ is used to denote the set of all strings over an alphabet $\sum$. Moreover, $\sum^+$ is used to denote all non-empty strings over an alphabet $\sum$.
 # Concatenation of Strings
 let $x$ and $y$ be two strings over some alphabet $\sum$. Then $xy$ is the concatenation of these two strings.
+# Language
+A set of strings, all of which are chosen from $\sum^*$, where $\sum$ is some alphabet, is called a language.
 
