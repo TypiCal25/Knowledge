@@ -30,4 +30,5 @@ You can think of it as sort of an **optional** transition. This is probably one 
 ## Epsilon Closures
 Its basically the set of all elements that can be reached from a particular element through epsilon transitions.
 
-Basis: State $q$ is 
+Basis: State $q$ is in ECLOSE(q)
+Induction: If p is in ECLOSE(q) and there is a transition from p to r using an $\epsilon$ transition, then r is in ECLOSE(q)
