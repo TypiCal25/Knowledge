@@ -15,3 +15,5 @@ let $x$ and $y$ be two strings over some alphabet $\sum$. Then $xy$ is the conca
 A set of strings, all of which are chosen from $\sum^*$, where $\sum$ is some alphabet, is called a language.
 # Problems
 In [[Automata Theory]], a problem is the question of deciding whether a given string is a member of some particular language.
+
+[[Deterministic Finite Automaton]]
