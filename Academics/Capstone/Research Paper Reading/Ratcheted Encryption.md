@@ -9,4 +9,4 @@ Lets say that the server has a set of keys (pubkey-server, privkey-server). It a
 ## Steps
 1. The client sends information on all the supported ciphersuites (that have been implemented in software), along with a random Nonce number $N_c$.
 2. The server responds with information on its supported ciphersuites (that have been implemented in software) along with a random Nonce number $N_s$, along with its public key and the digital certificate from the certificate authority.
-3. 
+3.  
