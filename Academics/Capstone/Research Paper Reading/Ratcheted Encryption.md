@@ -2,4 +2,5 @@ Ratcheted encryption is a very new formalization of the principles that lead to 
 # What is Forward Secrecy?
 It basically means that you can't uncover the secrets of messages that were using a previous key using the currently exposed keys.
 # What is Backwards Secrecy?
-<To be understood>
+# How Does TLS Work?
+TLS ensures that there i
