@@ -3,4 +3,6 @@ Ratcheted encryption is a very new formalization of the principles that lead to 
 It basically means that you can't uncover the secrets of messages that were using a previous key using the currently exposed keys.
 # What is Backwards Secrecy?
 # How Does TLS Work?
-TLS ensures that there i
+TLS ensures that there is a secure communication channel between a server and client such that the key exchanges are done using the public key cryptographic principles while the encryption is solely done using symmetric key algorithms.
+
+Lets say that the server has a set of keys (pubkey-server, privkey-server). It also has a cert
