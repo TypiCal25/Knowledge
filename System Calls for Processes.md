@@ -1,0 +1,1 @@
+There are different types of processes. These are the ones that run in user space and the ones that run in kernel space. The ones that run in kernel space are privileged and perform operations that require critical permissions or 
