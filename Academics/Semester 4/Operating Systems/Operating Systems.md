@@ -10,4 +10,4 @@ The device driver is a piece of software that understands the device controller 
 # Interrupts
 Interrupts are crucial in order for an operating system to function. They are used for a variety of purposes but one such example is for a controller to indicate to the driver that it is in the ready state.
 [[Interrupts]]
-
+#
