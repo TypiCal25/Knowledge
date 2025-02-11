@@ -1,0 +1,1 @@
+A process is simply just a program that is in execution.
