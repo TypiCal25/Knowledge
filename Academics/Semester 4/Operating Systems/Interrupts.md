@@ -7,3 +7,4 @@ But this is hardly what we need and is very very simplistic.
 2. We need a better and faster way to dispatch interrupt handler routines.
 3. Interrupt-levels are required (low-priority and high-priority).
 
+Most CPUs have two interrupt lines
