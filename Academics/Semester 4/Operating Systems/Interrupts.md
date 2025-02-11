@@ -3,4 +3,7 @@ In this case, a device controller simply puts a signal on the interrupt request 
 
 But this is hardly what we need and is very very simplistic.
 ## What a Modern Operating System Requires?
-1. It needs the ability to defer the interrupt routine for later in the case that it is runni
+1. It needs the ability to defer the interrupt routine for later in the case that it is running a critical process.
+2. We need a better and faster way to dispatch interrupt handler routines.
+3. Interrupt-levels are required (low-priority and high-priority).
+
