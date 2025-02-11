@@ -1,1 +1,1 @@
-A process is simply just a program that is in execution.
+A process is simply just a program that is in execution. This is an *active* entity rather than just a *passive* entity like the
