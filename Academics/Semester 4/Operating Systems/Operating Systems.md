@@ -8,4 +8,6 @@ A device controller consists of some local buffer storage as well as some specia
 ## Device Driver
 The device driver is a piece of software that understands the device controller and provides the rest of the operating system with a better and more abstract interface for the device.
 # Interrupts
-Interrupts are crucial in order
+Interrupts are crucial in order for an operating system to function. They are used for a variety of purposes but one such example is for a controller to indicate to the driver that it is in the ready state.
+[[Interrupts]]
+
