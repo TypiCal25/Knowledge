@@ -7,5 +7,5 @@ A modern general purpose contains multiple CPUs and a number of device controlle
 A device controller consists of some local buffer storage as well as some special purpose registers. It is the responsibility of the Device Controllers to move data between the peripheral devices and this local buffer storage.
 ## Device Driver
 The device driver is a piece of software that understands the device controller and provides the rest of the operating system with a better and more abstract interface for the device.
-
-
+# Interrupts
+Interrupts are crucial in order
