@@ -8,3 +8,5 @@ But this is hardly what we need and is very very simplistic.
 3. Interrupt-levels are required (low-priority and high-priority).
 
 Most CPUs have two interrupt lines
+1. The non-maskable interrrupt line: Can't be ignored.
+2. the maskable interrupt line: Can be ignored by turning off responses to this interrupt line.
