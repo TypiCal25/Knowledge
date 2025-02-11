@@ -5,4 +5,4 @@ The operating system can be seen in two scopes
 A modern general purpose contains multiple CPUs and a number of device controllers connected through a common bus that provides access between components and shared memory.
 ## Device Controllers
 A device controller consists of some local buffer storage as well as some special purpose registers. It is the responsibility of the Device Controllers to move data between the peripheral devices and this local buffer storage.
-
+## Deviced
