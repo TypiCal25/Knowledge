@@ -3,4 +3,4 @@
 3. URL stands for Uniform Resource Locator
 4. MIME stands for Multipurpose Internet Mail Extensions
 # HTTP
-HTTP stands for Hyper Text Transfer p
+HTTP stands for Hyper Text Transfer Protocol.
