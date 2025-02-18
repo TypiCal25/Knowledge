@@ -2,4 +2,5 @@
 2. Mosaic was the first web browser which was developed at the NCSA.
 3. URL stands for Uniform Resource Locator
 4. MIME stands for Multipurpose Internet Mail Extensions
-5. 
+# HTTP
+HTTP stands for Hyper Text Transfer p
