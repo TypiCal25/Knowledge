@@ -4,3 +4,5 @@
 4. MIME stands for Multipurpose Internet Mail Extensions
 # HTTP
 HTTP stands for Hyper Text Transfer Protocol.
+# HTML
+1. 
