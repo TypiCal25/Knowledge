@@ -11,4 +11,6 @@ HTTP stands for Hyper Text Transfer Protocol.
 4. em
 5. strong
 6. code
-7. 
+7. sub
+8. sup
+9. 
