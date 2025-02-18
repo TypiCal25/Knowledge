@@ -5,4 +5,10 @@
 # HTTP
 HTTP stands for Hyper Text Transfer Protocol.
 # HTML
-1. 
+1. p tag
+2. pre tag
+3. blockquote tag
+4. em
+5. strong
+6. code
+7. 
