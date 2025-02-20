@@ -7,4 +7,6 @@ We need a way in order to uniquely identify a tuple from the value of its attrib
 
 A superkey is a set of one or more attributes that allow us to uniquely identify a tuple in a relation. A candidate key is basically a minimal Superkey, that is, it doesn't have a subset that is also a superkey.
 
-A primary key is simply just a candidate key that the database designer has identified as the principle means of identify
+A primary key is simply just a candidate key that the database designer has identified as the principle means of identifying tuples in a relation.
+
+
