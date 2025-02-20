@@ -36,4 +36,7 @@ We specify a database schema by a set of definitions expressed by a special lang
 2. Referential Integrity
 
 **SQL is NOT a Turing-Complete Language**.
+# Entity-Relationship Model
+The entity-relationship data model uses a collection of basic objects, called entities and relationships among these objects. An entity is simply an object that is distinguishable from other objects. 
 
+We also have concepts like the entity set and relationship set 
