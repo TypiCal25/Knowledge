@@ -5,5 +5,5 @@ We use the term relation instance for a particular instance of a relation, i.e, 
 # Keys
 We need a way in order to uniquely identify a tuple from the value of its attributes. All the values of all the attributes of two tuples simply cannot be the same, as that would essentially be a duplicate in the database.
 
-A superkey is a set of one or more attributes that allow us to uniquely identify a tuple in a relation. 
+A superkey is a set of one or more attributes that allow us to uniquely identify a tuple in a relation. A candidate key is basically a minimal Superkey, that is, it has a
 
