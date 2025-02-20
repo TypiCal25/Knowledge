@@ -19,3 +19,5 @@ There are three levels of data abstraction when it comes to a database.
 In order to bring out the best performance and storage of data, the lowest level of abstraction, actually describes how the data is actually stored. This may include complex low-level data structures in detail.
 ## Logical Level
 This is one step above the physical level. In this level, the user does not need to know the underlying complexity of the data structures that are being used. As such, this level describes what data is present in the database and what relationships exist among the data.
+## View Level
+The highest level of abstraction describes only a part of the database itself.
