@@ -4,4 +4,4 @@
 4. smallint
 5. numeric(d,p): Here 1 digit is used for the sign.
 # SQL Commands
-
+The from clause, basically generates a Cartesian Product of the relations
