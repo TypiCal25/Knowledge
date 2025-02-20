@@ -12,3 +12,5 @@ The from clause creates a cartesian product. The where clause applies some predi
 ## When do we need to Rename
 1. When we want to compares entries from the same relation.
 2. When we have clashing names in the tables that are being used in the select from where clause.
+
+Union clause deletes all duplicates because it is a set operation rather t
