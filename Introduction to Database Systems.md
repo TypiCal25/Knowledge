@@ -10,3 +10,10 @@ It should be both convenient as well as efficient.
 5. Atomicity problems
 6. Concurrent Access Problems
 7. Security Problems
+# Data Abstraction
+There are three levels of data abstraction when it comes to a database.
+1. Physical Level
+2. Logical Level
+3. View Level
+## Physical Level
+In order to bring out the best performance and storage of data, the lowest level of abstraction, actually describes 
