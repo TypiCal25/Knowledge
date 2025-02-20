@@ -3,4 +3,5 @@
 3. int
 4. smallint
 5. numeric(d,p): Here 1 digit is used for the sign.
-6. 
+# SQL Commands
+
