@@ -23,3 +23,6 @@ This is one step above the physical level. In this level, the user does not need
 The highest level of abstraction describes only a part of the database itself.
 # Instances and Schema
 The data in a database changes over time as information is inserted into and deleted from the database. The collection of data that is stored inside the database at any given point of time is known as an instance of the database. The overall design of the database is also known as the schema of the database.
+# Data Models
+## Relational Model
+The relational model uses a collection of tables in order to represent both data a
