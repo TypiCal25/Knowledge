@@ -31,3 +31,4 @@ This type of data model uses a collection of basic objects, called entities and 
 # Database Languages
 Each database system provides a data-definition language and a data manipulation language, to express database queries and updates. 
 ## Data-Definition Language
+We specify a database schema by a set of definitions expressed by a special language called a data-definition language. We can also add in additional properties of the data.
