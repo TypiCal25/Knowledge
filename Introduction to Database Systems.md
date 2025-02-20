@@ -28,3 +28,6 @@ The data in a database changes over time as information is inserted into and del
 The relational model uses a collection of tables in order to represent both data and the relationships among those data. Each table has multiple columns, and each column has a unique name. Tables are also known as relations. 
 ## Entity-Relationship Model
 This type of data model uses a collection of basic objects, called entities and relationships among these objects.
+# Database Languages
+Each database system provides a data-definition language and a data manipulation language, to express database queries and updates. 
+## Data
