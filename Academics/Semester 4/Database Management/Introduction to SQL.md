@@ -5,3 +5,5 @@
 5. numeric(d,p): Here 1 digit is used for the sign.
 # SQL Commands
 The from clause, basically generates a Cartesian Product of the relations
+
+select, from, where but intuitively it should be from where select
