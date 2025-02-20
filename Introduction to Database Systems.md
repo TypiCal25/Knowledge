@@ -21,3 +21,5 @@ In order to bring out the best performance and storage of data, the lowest level
 This is one step above the physical level. In this level, the user does not need to know the underlying complexity of the data structures that are being used. As such, this level describes what data is present in the database and what relationships exist among the data.
 ## View Level
 The highest level of abstraction describes only a part of the database itself.
+# Instances and Schema
+The data in a database changes over time as information is inserted into and deleted from the database. The collection of data that is stored inside the database at any given point of time is known as an instance of the database. The overall design of the database is 
