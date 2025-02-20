@@ -25,4 +25,6 @@ The highest level of abstraction describes only a part of the database itself.
 The data in a database changes over time as information is inserted into and deleted from the database. The collection of data that is stored inside the database at any given point of time is known as an instance of the database. The overall design of the database is also known as the schema of the database.
 # Data Models
 ## Relational Model
-The relational model uses a collection of tables in order to represent both data a
+The relational model uses a collection of tables in order to represent both data and the relationships among those data. Each table has multiple columns, and each column has a unique name. Tables are also known as relations. 
+## Entity-Relationship Model
+This type of data model uses a collection of basic objects, called entities and relationships among these objects.
