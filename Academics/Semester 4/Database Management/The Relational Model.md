@@ -3,4 +3,7 @@ For each attribute of a relation, we have a permitted set of values that is call
 
 We use the term relation instance for a particular instance of a relation, i.e, a specific set of rows in the relation (table).
 # Keys
-We need a way in order to uniquely identify a tuple from the value of its attributes. 
+We need a way in order to uniquely identify a tuple from the value of its attributes. All the values of all the attributes of two tuples simply cannot be the same, as that would essentially be a duplicate in the database.
+
+A superkey is a set of one or more attributes that allow us to uniquely identify a tuple in a relation. 
+
