@@ -30,4 +30,4 @@ The relational model uses a collection of tables in order to represent both data
 This type of data model uses a collection of basic objects, called entities and relationships among these objects.
 # Database Languages
 Each database system provides a data-definition language and a data manipulation language, to express database queries and updates. 
-## Data
+## Data-Definition Language
