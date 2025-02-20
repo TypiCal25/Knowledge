@@ -8,4 +8,4 @@ The from clause, basically generates a Cartesian Product of the relations
 
 select, from, where but intuitively it should be from where select
 
-The from clause creates a cartesian product. The where clause applies some predicate, while the select chooses which attributes of thi
+The from clause creates a cartesian product. The where clause applies some predicate, while the select chooses which attributes of this cartesian product should be shown.
