@@ -15,4 +15,7 @@ A Merkle Tree is a very useful data structure that can be used to summarize thou
 # Proof of Work
 Mining is the process by which new Bitcoin is added to the money supply in Bitcoin. It is also the process to secure the bitcoin system against fraudulent transactions spending the same amount of bitcoin more than once. 
 ## Verifying a Transaction
-1. Syntax and Data Structure must be co
+1. Syntax and Data Structure must be correct
+2. Input and Outputs must not be empty
+3. Transaction size in bytes is less than MAX_BLOCK_SIZE
+4. 
