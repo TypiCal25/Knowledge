@@ -19,4 +19,5 @@ Using the pre-processed values, we won't have any problems in computing and we s
 We need to create a protocol in which we want to generate (n,t) Shamir sharing of L number of random and private values.
 ## Rand-Extract Protocol
 1. We first generate (n, t) Shamir Shares of n-t private and random values.
+
 2. 
