@@ -1,1 +1,1 @@
-SegWit stands for Segregated Witness!
+SegWit stands for Segregated Witness. In this case, all the witness data that has to be included in a bitcoin transaction is kept in a separate se
