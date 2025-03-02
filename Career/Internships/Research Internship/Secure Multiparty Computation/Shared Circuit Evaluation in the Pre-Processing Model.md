@@ -5,4 +5,5 @@ This has become the de-facto method of evaluation in generic MPC protocols. It i
 The main idea of the shared circuit evaluation model is to split the circuit evaluation into two main steps
 1. Circuit/Function independent Pre-Processing Phase
 2. Shared Circuit Evaluation
-There is obviously going to be some relation in between these two phases. **We want to shift all the e**
+There is obviously going to be some relation in between these two phases. **We want to shift all the expensive operations to the pre-processing phase**.
+
