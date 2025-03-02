@@ -2,7 +2,8 @@
 - [ ] Finish the last task in The Summer of Bitcoin
 	- [ ] Re-read how transaction blocks are built in Bitcoin from "Mastering Bitcoin".
 	- [ ] Go through your notes
-- [ ] Start con
+- [ ] Start going through the code base of Bitcoin Core
+- [ ] Revise the Schnorr Signature Scheme and the Fiat-Shamir Transformation to convert the Schnorr Identification Scheme to the Schnorr 
 # Linux Foundation Mentorship
 - [ ] Revise Docker
 - [ ] Revise Kubernetes
