@@ -5,4 +5,6 @@ A block header consists of three main things:
 2. Difficulty
 3. Timestamp
 4. Nonce
-5. 
+5. Merkle Tree Root.
+
+A block hash is th
