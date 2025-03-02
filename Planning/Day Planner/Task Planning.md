@@ -23,3 +23,4 @@ This document basically lists all the broad tasks that I need to finish. I shou
 - [ ] Complete the Secure Multiparty Computation Course.
 - [x] Reply to the email stating a due date.
 # Summer of NixOS
+I need to start getting comfortable with NixOS and learn how to use its declarative programming language to install packages. This will give me an edge during applications. I also need to get very comfortable with scripting languages such as bash, as this is a core Lin
