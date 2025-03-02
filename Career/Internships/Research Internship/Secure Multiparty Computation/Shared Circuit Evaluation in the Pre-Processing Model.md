@@ -7,3 +7,4 @@ The main idea of the shared circuit evaluation model is to split the circuit eva
 2. Shared Circuit Evaluation
 There is obviously going to be some relation in between these two phases. **We want to shift all the expensive operations to the pre-processing phase**.
 
+> The whole point of this is to make the 
