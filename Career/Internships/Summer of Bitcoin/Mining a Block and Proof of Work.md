@@ -1,0 +1,1 @@
+The process of mining a block is central to how Bitcoin works as a blockchain and as a digital asset. It follows a protocio

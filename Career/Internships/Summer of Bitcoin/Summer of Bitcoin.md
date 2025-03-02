@@ -1,1 +1,1 @@
-Summer of Bitcoin has three tasks out of which you have to solve all three. Currently, you are the only one on Campus who has ever tried for this program. Use that to your advantage and make 
+Summer of Bitcoin has three tasks out of which you have to solve all three.
