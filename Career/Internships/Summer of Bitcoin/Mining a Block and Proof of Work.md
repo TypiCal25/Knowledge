@@ -18,4 +18,5 @@ Mining is the process by which new Bitcoin is added to the money supply in Bitco
 1. Syntax and Data Structure must be correct
 2. Input and Outputs must not be empty
 3. Transaction size in bytes is less than MAX_BLOCK_SIZE
-4. 
+4. Output value must be in the acceptable range
+5. None of the inputs should have hash = 0, and N = -1
