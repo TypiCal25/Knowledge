@@ -1,7 +1,9 @@
 # Summer of Bitcoin
 # Linux Foundation Mentorship
 # Google Summer of Code
-## Getting c
+## Getting Comfortable with SSH
+- [ ] Read the RFCs regarding the protocol that is SSH and how does it work.
+- [ ] Understand the entire worklf
 # Nethermind
 - [ ] Text the two people on LinkedIn about a blockchain development internship.
 # IISC Research Internship
