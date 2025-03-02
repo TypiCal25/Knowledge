@@ -15,3 +15,4 @@ This simplifies so much!
 
 We can convert $$x_3x_4 = (x_3 - a + a)(x_4 - b + b)$$
 Using the pre-processed values, we won't have any problems in computing and we simplify the multiplicative gates by a lot!
+# How To Collectively Generate Random Values Without having any one know the random values?
