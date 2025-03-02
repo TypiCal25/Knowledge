@@ -3,3 +3,5 @@
 # Google Summer of Code
 # Nethermind
 # IISC Research Internship
+- [ ] Complete the Secure Multiparty Computation Course
+- [ ] 
