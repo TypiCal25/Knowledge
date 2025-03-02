@@ -2,3 +2,4 @@ SegWit stands for Segregated Witness. In this case, all the witness data that ha
 1. Non-Malleability of the transaction
 2. Increased throughput of the transaction.
 # Regular Execution Pre-SegWit
+Before SegWit was introd
