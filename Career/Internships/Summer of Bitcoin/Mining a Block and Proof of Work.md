@@ -26,4 +26,6 @@ Mining is the process by which new Bitcoin is added to the money supply in Bitco
 ## Transaction Age, Fees, and Priority
 Each bitcoin mining node must select transactions from its own mempool in order to include these into a bitcoin block. For doing so, there must be a way to prioritize some transactions over the other transactions. 
 
-Priority = S
+Priority = Sum (Value of Input * Age of Input) / Total Transaction Size.
+
+Here, the value of the input is in satoshis, the age of the input is in the number of blocks that have been mined on top of the block containing that UTXo, and
