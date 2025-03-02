@@ -9,4 +9,4 @@ There is obviously going to be some relation in between these two phases. **We w
 
 > The whole point of this is to make the processing of multiplicative gates much faster as the computation of the linear gates for additive gates is already very fast. 
 # Beaver's Random Multiplication Triples
-For each multiplication gate, there should
+For each multiplication gate, there should be one multiplication trip that is random, and private. These multiplicative triples will be (n, t) - Shamir secret shared.
