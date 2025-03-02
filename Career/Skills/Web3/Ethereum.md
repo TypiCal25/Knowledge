@@ -1,1 +1,0 @@
-A blockchain is simply just a globally shared, transactional database.
