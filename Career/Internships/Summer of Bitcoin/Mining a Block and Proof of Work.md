@@ -12,3 +12,5 @@ A block hash is the double SHA-256 Hash of the block header. This is very import
 Every bitcoin client already knows the details of the Genesis block as it is hard-coded inside the Bitcoin Client. 
 # Merkle Trees
 A Merkle Tree is a very useful data structure that can be used to summarize thousands of transactions in a single go. It also allows us to verify whether a transaction was included in the tree in $< 2 * log_2(n)$ 
+# Proof of Work
+Mining is the process by whic
