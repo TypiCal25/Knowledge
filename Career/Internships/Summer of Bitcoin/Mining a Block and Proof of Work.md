@@ -9,4 +9,4 @@ A block header consists of three main things:
 
 A block hash is the double SHA-256 Hash of the block header. This is very important to note.
 # Genesis Block
-Every bitcoin client already knows the details of the Genesis block as it is hardcoded
+Every bitcoin client already knows the details of the Genesis block as it is hard-coded inside the Bitcoin Client. 
