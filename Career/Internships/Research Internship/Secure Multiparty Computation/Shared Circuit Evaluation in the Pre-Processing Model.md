@@ -18,5 +18,5 @@ Using the pre-processed values, we won't have any problems in computing and we s
 # How To Collectively Generate Random Values Without having any one know the random values?
 We need to create a protocol in which we want to generate (n,t) Shamir sharing of L number of random and private values.
 ## Rand-Extract Protocol
-1. We first generate (n, t) Shamir Shares of n-t private and random values. Here, the adversary has control over t parties. So for that reason, we need to ensure that we need at least t + 1 
+1. We first generate (n, t) Shamir Shares of n-t private and random values. Here, the adversary has control over t parties. So for that reason, we need to ensure that we need at least t + 1 parties to reconstruct the value. So we perform Shamir Secret Sharing with a polynomial of degree t. In this way, the adversary is not able to recalculate the random value of the honest parties. At the same time, the honest parties, c
 2. 
