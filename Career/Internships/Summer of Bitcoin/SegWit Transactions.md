@@ -2,4 +2,6 @@ SegWit stands for Segregated Witness. In this case, all the witness data that ha
 1. Non-Malleability of the transaction
 2. Increased throughput of the transaction.
 # Regular Execution Pre-SegWit
-Before SegWit was introduced, in order to evaluate a transaction and to check if the UTXO can get unlocked, you would concatenate the scriptSig with the scriptPubKey and execute it using the bitcoin stack. This would essentially return a true or a false, indicating whether the UTXO was unlocked for this transaction or not. This e
+Before SegWit was introduced, in order to evaluate a transaction and to check if the UTXO can get unlocked, you would concatenate the scriptSig with the scriptPubKey and execute it using the bitcoin stack. This would essentially return a true or a false, indicating whether the UTXO was unlocked for this transaction or not. This essentially needed to be true for every single transaction input otherwise the overall transaction was considered invalid.
+# Execution Post-SegWit
+In newer transactions, post 
