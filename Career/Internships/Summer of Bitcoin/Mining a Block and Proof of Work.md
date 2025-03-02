@@ -28,4 +28,6 @@ Each bitcoin mining node must select transactions from its own mempool in order 
 
 Priority = Sum (Value of Input * Age of Input) / Total Transaction Size.
 
-Here, the value of the input is in satoshis, the age of the input is in the number of blocks that have been mined on top of the block containing that UTXo, and
+Here, the value of the input is in satoshis, the age of the input is in the number of blocks that have been mined on top of the block containing that UTXO, and the total transaction size is the size of the transaction in terms of bytes.
+
+The first 50 kilo
