@@ -1,1 +1,8 @@
 The process of mining a block is central to how Bitcoin works as a blockchain and as a digital asset. It follows a protocol that is known as the "Proof of Work".
+# Block Header
+A block header consists of three main things:
+1. A reference to a previous block hash.
+2. Difficulty
+3. Timestamp
+4. Nonce
+5. 
