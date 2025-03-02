@@ -17,4 +17,6 @@ We can convert $$x_3x_4 = (x_3 - a + a)(x_4 - b + b)$$
 Using the pre-processed values, we won't have any problems in computing and we simplify the multiplicative gates by a lot!
 # How To Collectively Generate Random Values Without having any one know the random values?
 We need to create a protocol in which we want to generate (n,t) Shamir sharing of L number of random and private values.
-## Rand-Extract Protoco
+## Rand-Extract Protocol
+1. We first generate (n, t) Shamir Shares of n-t private and random values.
+2. 
