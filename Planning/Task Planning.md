@@ -1,7 +1,9 @@
 # Summer of Bitcoin
 # Linux Foundation Mentorship
 # Google Summer of Code
+## Getting c
 # Nethermind
+- [ ] Text the two people on LinkedIn about a blockchain development internship.
 # IISC Research Internship
 - [ ] Complete the Secure Multiparty Computation Course.
-- [ ] Reply to the email stating a due date.
+- [x] Reply to the email stating a due date.
