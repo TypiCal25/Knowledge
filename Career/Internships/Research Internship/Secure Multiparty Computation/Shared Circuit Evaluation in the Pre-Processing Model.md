@@ -12,3 +12,5 @@ There is obviously going to be some relation in between these two phases. **We w
 For each multiplication gate, there should be one multiplication trip that is random, and private. These multiplicative triples will be (n, t) - Shamir secret shared.
 
 This simplifies so much!
+
+We can convert $$x_3x_4 = (x_3 - a + a)(x_4 - b + b$$
