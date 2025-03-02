@@ -24,4 +24,4 @@ Mining is the process by which new Bitcoin is added to the money supply in Bitco
 7. For every input, if the UTXO being referenced is already present in another transaction, then the new transaction must be rejected as it will be considered a double spend. If the UTXO is completely missing, then the transaction is put into an orphan pool. If the input is a Coinbase transaction, then the number of blocks mined after that must at least be 100.
 8. Each UTXO input should have an input value in the acceptable range. 
 ## Transaction Age, Fees, and Priority
-Each bitcoin mining node must select transactions from its own mempool in order to include these into a bitcoin block. For doing so, there must be a way to priorit
+Each bitcoin mining node must select transactions from its own mempool in order to include these into a bitcoin block. For doing so, there must be a way to prioritize some transactions over the other transactions. 
