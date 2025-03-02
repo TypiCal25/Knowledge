@@ -1,0 +1,1 @@
+SegWit stands for Segregated Witness!
