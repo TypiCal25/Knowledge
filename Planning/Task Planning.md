@@ -1,5 +1,8 @@
 # Summer of Bitcoin
-- [ ] Finsi
+- [ ] Finish the last task in The Summer of Bitcoin
+	- [ ] Re-read how transaction blocks are built in Bitcoin from "Mastering Bitcoin".
+	- [ ] Go through your notes
+- [ ] Start con
 # Linux Foundation Mentorship
 - [ ] Revise Docker
 - [ ] Revise Kubernetes
