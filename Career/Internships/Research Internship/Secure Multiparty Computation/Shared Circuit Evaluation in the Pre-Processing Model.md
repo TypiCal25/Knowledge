@@ -8,4 +8,5 @@ The main idea of the shared circuit evaluation model is to split the circuit eva
 There is obviously going to be some relation in between these two phases. **We want to shift all the expensive operations to the pre-processing phase**.
 
 > The whole point of this is to make the processing of multiplicative gates much faster as the computation of the linear gates for additive gates is already very fast. 
-
+# Beaver's Random Multiplication Triples
+For each multiplication gate, there should
