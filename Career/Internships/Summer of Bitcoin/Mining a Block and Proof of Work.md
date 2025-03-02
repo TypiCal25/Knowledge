@@ -25,3 +25,5 @@ Mining is the process by which new Bitcoin is added to the money supply in Bitco
 8. Each UTXO input should have an input value in the acceptable range. 
 ## Transaction Age, Fees, and Priority
 Each bitcoin mining node must select transactions from its own mempool in order to include these into a bitcoin block. For doing so, there must be a way to prioritize some transactions over the other transactions. 
+
+Priority = S
