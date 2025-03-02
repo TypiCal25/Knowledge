@@ -7,4 +7,4 @@ A block header consists of three main things:
 4. Nonce
 5. Merkle Tree Root.
 
-A block hash is th
+A block hash is the double SHA-256 Hash of the block header. This is very important to note.
