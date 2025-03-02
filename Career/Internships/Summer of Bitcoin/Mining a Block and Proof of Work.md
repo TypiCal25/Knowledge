@@ -30,4 +30,4 @@ Priority = Sum (Value of Input * Age of Input) / Total Transaction Size.
 
 Here, the value of the input is in satoshis, the age of the input is in the number of blocks that have been mined on top of the block containing that UTXO, and the total transaction size is the size of the transaction in terms of bytes.
 
-The first 50 kilobytes of transaction space in a block are set aside for high priority transactions. These will be processed even if they have 0 fees included inside them. 
+The first 50 kilobytes of transaction space in a block are set aside for high priority transactions. These will be processed even if they have 0 fees included inside them. The bitcoin mining node then includes the remaining transactions 
