@@ -1,3 +1,4 @@
+This document basically lists all the broad tasks that I need to finish. I shou
 # Summer of Bitcoin
 - [ ] Finish the last task in The Summer of Bitcoin
 	- [ ] Re-read how transaction blocks are built in Bitcoin from "Mastering Bitcoin".
@@ -21,3 +22,4 @@
 # IISC Research Internship
 - [ ] Complete the Secure Multiparty Computation Course.
 - [x] Reply to the email stating a due date.
+# Summer of NixOS
