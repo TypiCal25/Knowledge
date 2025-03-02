@@ -8,3 +8,5 @@ A block header consists of three main things:
 5. Merkle Tree Root.
 
 A block hash is the double SHA-256 Hash of the block header. This is very important to note.
+# Genesis Block
+Every bitcoin client already knows the details of the Genesis block as it is hardcoded
