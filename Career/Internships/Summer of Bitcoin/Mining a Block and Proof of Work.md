@@ -21,4 +21,4 @@ Mining is the process by which new Bitcoin is added to the money supply in Bitco
 4. nLockTime should be less than or equal to INT_MAX
 5. Output value must be in the acceptable range
 6. None of the inputs should have hash = 0, and N = -1. This is because this represents a coin-base transaction which shouldn't be transmitted throughout the network. 
-7. For every input, if the UTXO being referenced is already present in another transaction, then the new transaction must be rejected as it will be considered a double spend. If the UTXO is completely missing, then the transaction i
+7. For every input, if the UTXO being referenced is already present in another transaction, then the new transaction must be rejected as it will be considered a double spend. If the UTXO is completely missing, then the transaction is put into an orphan pool. If the input is a Coinbase transaction, then the number of blocks mined after that must at least 
