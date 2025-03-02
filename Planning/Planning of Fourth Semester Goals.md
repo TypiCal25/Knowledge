@@ -13,3 +13,4 @@ In terms of adding stats to your resume, these are the main things that I think 
 3. Summer of NixOS
 4. Google Summer of Code
 5. Linux Foundation Mentorship
+6. Nethermind Internship for the Summer
