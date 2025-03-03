@@ -1,1 +1,1 @@
-Docker is a container
+Docker is a containerization tech
