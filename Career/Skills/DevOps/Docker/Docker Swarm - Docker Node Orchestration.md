@@ -8,4 +8,6 @@ A docker node is simply a server or a machine that is running docker. On the clu
 # How Does Docker Swarm Work
 Docker swarm configures nodes as either **Managers** or **Workers**. Managers look after the control plane of the cluster, that is things like managing the state of the cluster as well as dispatching tasks to the worker nodes, etc.
 
-TLS is built into Docker Swarm, i.e, any communication that is happening over the network is inherently going to be encrypted and completely secure. The configuration and state of the docker swarm is held in an etcd database and is kept extremely u-
+TLS is built into Docker Swarm, i.e, any communication that is happening over the network is inherently going to be encrypted and completely secure. The configuration and state of the docker swarm is held in an etcd database and is kept extremely up-to-date on every single docker node.
+
+The atomic unit of scheduling in this case, is a service, which is similar to a wrapper arou
