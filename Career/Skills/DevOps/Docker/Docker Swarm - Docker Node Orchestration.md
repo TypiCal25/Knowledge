@@ -6,4 +6,4 @@ A docker node is simply a server or a machine that is running docker. On the clu
 
 > Docker Swarm Competes with Kubernetes Directly!
 # How Does Docker Swarm Work
-Docker swarm configures nodes as either **Managers** or **Workers**. 
+Docker swarm configures nodes as either **Managers** or **Workers**. Managers look after the control plane of the cluster, men
