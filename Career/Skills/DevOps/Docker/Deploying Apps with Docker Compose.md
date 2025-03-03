@@ -5,5 +5,6 @@ In the beginning there was Fig, which was a python tool that made use of the Doc
 YAML stands for "Yet Another Markup Language". It is a subset of JSON files. 
 [[YAML Syntax]]
 # Docker Compose Commands
-Whenever you `docker compose up &`, it automatically creates the images as well as the containers. On the other hand, whenever you do `docker compose down`, it gracefully shuts down all
+Whenever you `docker compose up &`, it automatically creates the images as well as the containers. On the other hand, whenever you do `docker compose down`, it gracefully shuts down all the containers and removes them. On the other hand, it doesn't do anything to the attached volumes because the volumes are meant to be long-term persistent storage in the first place.
+
 
