@@ -12,5 +12,5 @@ TLS is built into Docker Swarm, i.e, any communication that is happening over th
 
 The atomic unit of scheduling in this case, is a service, which is similar to a wrapper around containers, i.e, its a container with some additional features.
 # Initializing a new Docker Swarm
-
+Docker nodes that are not part of a swarm are said to be in **single-engine** mode. Once they are added to the swarm, they are automatically switched into swarm mode. 
 
