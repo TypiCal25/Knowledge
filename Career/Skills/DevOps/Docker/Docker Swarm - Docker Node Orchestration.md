@@ -11,4 +11,6 @@ Docker swarm configures nodes as either **Managers** or **Workers**. Managers lo
 TLS is built into Docker Swarm, i.e, any communication that is happening over the network is inherently going to be encrypted and completely secure. The configuration and state of the docker swarm is held in an etcd database and is kept extremely up-to-date on every single docker node.
 
 The atomic unit of scheduling in this case, is a service, which is similar to a wrapper around containers, i.e, its a container with some additional features.
+# Initializing a new Docker Swarm
+
 
