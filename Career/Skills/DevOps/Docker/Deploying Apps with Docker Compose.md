@@ -4,5 +4,6 @@ In the beginning there was Fig, which was a python tool that made use of the Doc
 # YAML Files
 YAML stands for "Yet Another Markup Language". It is a subset of JSON files. 
 [[YAML Syntax]]
-# Docker Compose Command
+# Docker Compose Commands
+Whenever you `docker compose up &`, it automatically creates the imagse
 
