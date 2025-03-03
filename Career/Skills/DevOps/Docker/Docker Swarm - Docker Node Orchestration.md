@@ -17,5 +17,6 @@ Docker nodes that are not part of a swarm are said to be in **single-engine** mo
 Docker swarm can be initialized using the following command in manager mode
 `docker swarm init --advertise-addr <swarm_address> --listen-addr <local_addr>`
 
+It's recommended to simply use all the flags, because you can set the advertise_addr to the address of a load balancer as well.
 
 
