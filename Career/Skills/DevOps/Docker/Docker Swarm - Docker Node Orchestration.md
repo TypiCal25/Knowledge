@@ -15,6 +15,7 @@ The atomic unit of scheduling in this case, is a service, which is similar to a 
 Docker nodes that are not part of a swarm are said to be in **single-engine** mode. Once they are added to the swarm, they are automatically switched into swarm mode. 
 
 Docker swarm can be initialized using the following command in manager mode
-```
-```
+`docker swarm init --advertise-addr <swarm_address> --listen-addr <local_addr>`
+
+
 
