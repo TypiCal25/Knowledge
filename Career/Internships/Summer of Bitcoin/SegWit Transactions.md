@@ -8,4 +8,7 @@ In newer transactions, post-SegWit,
 1. the scriptSig is completely empty
 2. the scriptPubKey consists of a "Witness Program" instead.
 ## Witness Program
-SegWit transactions have the scriptPubKey in a specific format. This format is given 
+SegWit transactions have the scriptPubKey in a specific format. This format is given below
+```
+OP_0-OP_16 followed by a <32 Byte SHA256 hash> 
+```
