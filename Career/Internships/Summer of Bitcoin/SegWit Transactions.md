@@ -10,5 +10,6 @@ In newer transactions, post-SegWit,
 ## Witness Program
 SegWit transactions have the scriptPubKey in a specific format. This format is given below
 ```
-OP_0-OP_16 followed by a <32 Byte SHA256 hash> 
+OP_0-OP_16 followed by a <2-40 Byte Hash>
 ```
+
