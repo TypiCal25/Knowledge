@@ -21,5 +21,4 @@ It's recommended to simply use all the flags, because you can set the advertise_
 
 The advertise_addr is the outbound address that other nodes will send requests and swarm traffic to, while the listen-addr is the actual local address on the docker node that is configured to be used for swarm traffic in general.
 
-
-
+a.
