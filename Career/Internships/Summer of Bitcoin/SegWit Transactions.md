@@ -6,4 +6,6 @@ Before SegWit was introduced, in order to evaluate a transaction and to check if
 # Execution Post-SegWit
 In newer transactions, post-SegWit,
 1. the scriptSig is completely empty
-2. the scriptPubKey consists of a "Witness Program" 
+2. the scriptPubKey consists of a "Witness Program" instead.
+## Witness Program
+
