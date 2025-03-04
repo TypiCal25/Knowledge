@@ -12,4 +12,5 @@ SegWit transactions have the scriptPubKey in a specific format. This format is g
 ```
 OP_0-OP_16 followed by a <2-40 Byte Hash>
 ```
-
+## Witness Stack
+The witness stack 
