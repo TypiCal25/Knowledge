@@ -4,4 +4,6 @@ A hub is simply a layer 1 device. It simply replicates all the signals it gets o
 # Switch
 A switch is a layer 2 device which splits apart the collision domains but does NOT split the broadcast domains. In this way, it is extremely useful in order to make LANs more performance-oriented.
 ## How does a Switch split apart Collision Domains
-1. Each device connected is connected using full duplex connections for to-and-fro communications with a
+1. Each device connected is connected using full duplex connections for to-and-fro communications with each device connected to a port
+2. It also manages an internal table and only forwards packets to a particular port instead of forwarding it to all of them.
+3. There are internal frame bur
