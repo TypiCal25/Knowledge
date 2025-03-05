@@ -20,6 +20,7 @@ We have 7 different layers in the OSI Model. These are (from bottom to top):
 The backbone network (also known as the core layer) is the **core** of the network. As such, it is responsible for transporting large amounts of traffic. The main focus should be on extremely low latency and on reliability. As such, you should use Physical Layer constructs like extremely fast cables with redundancy enabled that are reliable in nature.
 
 There should be no packet filtering, etc. done at this layer, as this layer should be solely focused on transporting network traffic.
+## Access Lay
 
 
 
