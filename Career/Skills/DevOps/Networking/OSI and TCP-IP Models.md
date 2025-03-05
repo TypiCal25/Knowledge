@@ -17,6 +17,6 @@ We have 7 different layers in the OSI Model. These are (from bottom to top):
 2. Distribution Layer
 3. Access Layer
 ## Backbone Network
-The backbone network (also known as the core layer) is the **core** of the network. As such, it is responsible for transporting large amon
+The backbone network (also known as the core layer) is the **core** of the network. As such, it is responsible for transporting large amounts of traffic. The main focus should be on extremely low latency and on reliability. As such, you should use Physical Layer constructs like extremely fast cables with l
 
 
