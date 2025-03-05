@@ -23,7 +23,7 @@ There should be no packet filtering, etc. done at this layer, as this layer shou
 ## Distribution Layer
 This layer consists of layer 3 switches (routers) that can perform inter-VLAN routing. It is at this layer, that you can implement all the packet filtering, etc. things that you want to do. It is also the layer that decides whether a packet should be sent to the backbone layer or not. 
 
-In this layer, a single switch from the 
+In this layer, a single switch from the access layer may be connected to multiple different distribution layer routers in order to provide high availability in case one router goes down temporarily. The 
 ## Access Layer
 
 
