@@ -6,4 +6,5 @@ A switch is a layer 2 device which splits apart the collision domains but does N
 ## How does a Switch split apart Collision Domains
 1. Each device connected is connected using full duplex connections for to-and-fro communications with each device connected to a port
 2. It also manages an internal table and only forwards packets to a particular port instead of forwarding it to all of them.
-3. There are internal buffers that hold frames in a buffer in case there are more than one that need to be sent to a particular comp
+3. There are internal buffers that hold frames in a buffer in case there are more than one that need to be sent to a particular port. It sends these in order rather than having a collision occur.
+In this way, a switch does not have collisions at all and has made all hubs obsolete.
