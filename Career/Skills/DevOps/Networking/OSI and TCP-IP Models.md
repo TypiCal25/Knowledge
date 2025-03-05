@@ -11,5 +11,6 @@ We have 7 different layers in the OSI Model. These are (from bottom to top):
 4. Transport Layer
 5. Session Layer
 6. Presentation Layer
-7. 
+7. Application Layer
+
 
