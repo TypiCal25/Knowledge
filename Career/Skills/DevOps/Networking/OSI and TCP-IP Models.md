@@ -33,7 +33,9 @@ This is the modern switched access layer consisting of all the devices.
 4. DNS
 5. DHCP
 ## DHCP
-A DHCP server is one that assigns IP addresses to a computer connected ot 
+A DHCP server is one that assigns IP addresses to a computer connected to the network.
+1. The Computer sends out a broadcast message for a DHCPDiscover
+2. 
 
 
 
