@@ -12,6 +12,10 @@ We have 7 different layers in the OSI Model. These are (from bottom to top):
 5. Session Layer
 6. Presentation Layer
 7. Application Layer
+# Different Layers of a Network
+1. Backbone Layer
+2. Distribution Layer
+3. Access Layer
 
 
 
