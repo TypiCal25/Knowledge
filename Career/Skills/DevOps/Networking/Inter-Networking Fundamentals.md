@@ -1,3 +1,3 @@
 Switches are extremely useful for breaking apart collision domains while Routers break apart both collision and broadcast domains. This is extremely important!
 # Hub
-A hub is simply a layer 1 device. It simply replicates all the signals it gets on all the ports. I
+A hub is simply a layer 1 device. It simply replicates all the signals it gets on all the ports. If two devices send a packet at the same time, the hub causes a collision. In this way, we have to make use of carrier sensing protocols such as the CSMA Protocol. This is pretty inefficient 
