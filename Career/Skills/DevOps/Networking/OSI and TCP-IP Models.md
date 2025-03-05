@@ -1,3 +1,4 @@
 Reference models allow for devices to interconnect and talk to each other so that they all follow the same "rules" or "technologies" while trying to interconnect.
 
-The obvious winer 
+The obvious winner in what is actually implemented is the TCP/IP model which is what is installed in most systems but network engineers always talk in terms of the OSI model as well.
+
