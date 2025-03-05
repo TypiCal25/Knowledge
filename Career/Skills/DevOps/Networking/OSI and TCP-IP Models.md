@@ -25,6 +25,7 @@ This layer consists of layer 3 switches (routers) that can perform inter-VLAN ro
 
 In this layer, a single switch from the access layer may be connected to multiple different distribution layer routers in order to provide high availability in case one router goes down temporarily. The remaining network can continue to operate without any hassles.
 ## Access Layer
+This is the modern sw
 
 
 
