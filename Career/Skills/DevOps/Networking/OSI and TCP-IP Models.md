@@ -21,7 +21,9 @@ The backbone network (also known as the core layer) is the **core** of the netwo
 
 There should be no packet filtering, etc. done at this layer, as this layer should be solely focused on transporting network traffic.
 ## Distribution Layer
-This layer consists of layer 3 switches (routers) that can perform inter-VLAN routing. It is at this layer, that you can implement all the
+This layer consists of layer 3 switches (routers) that can perform inter-VLAN routing. It is at this layer, that you can implement all the packet filtering, etc. things that you want to do. It is also the layer that decides whether a packet should be sent to the backbone layer or not. 
+
+In this layer, a single switch from the 
 ## Access Layer
 
 
