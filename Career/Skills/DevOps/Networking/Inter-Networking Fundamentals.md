@@ -1,0 +1,1 @@
+Switches are extremely useful for breaking apart collision domains while 
