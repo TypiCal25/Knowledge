@@ -35,7 +35,7 @@ This is the modern switched access layer consisting of all the devices.
 ## DHCP
 A DHCP server is one that assigns IP addresses to a computer connected to the network.
 1. The Computer sends out a broadcast message for a DHCPDiscover
-2. 
+2. The DHCP server sends a Layer 2 
 
 
 
