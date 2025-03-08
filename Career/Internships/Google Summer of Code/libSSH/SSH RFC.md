@@ -23,4 +23,4 @@ Both sides must send an identification string in the format of
 ## Compatibility with older SSH Versions
 Older versions of the SSH client haven't been documented well. 
 #### Old Client, New Server
-When a server wants to show that it is compatible with older versions of the SSH protocol, 
+When a server wants to show that it is compatible with older versions of the SSH protocol, then it should send its protoversion to be 1.99. For newer clients, they will process this as if it is identical to 2.0. 
