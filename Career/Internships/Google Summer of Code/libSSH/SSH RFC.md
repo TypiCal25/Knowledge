@@ -32,3 +32,5 @@ SSH packet format is as follows:
 3. byte[n1] - payload; n1 = packet_length - padding_length - 1
 4. byte[n2] - random padding; n2 = padding_length
 5. byte[m] - mac
+Here the packet_length is the total length of the packet data, excluding the packet_length and mac fields.
+
