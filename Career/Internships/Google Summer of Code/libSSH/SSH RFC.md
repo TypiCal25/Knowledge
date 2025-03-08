@@ -19,4 +19,5 @@ When used over TCP/IP, the server normally listens for connections over the port
 Both sides must send an identification string in the format of
 `SSH-protoversion-softwareversion SP comments CR LF`
 1. protoversion has been defined to be "2.0" in the RFC documents. But keeping this field allows for future upgrades to the SSH Protocol.
-2. 
+### Old Client, New Server
+Server implementations **may** support a configurable compati
