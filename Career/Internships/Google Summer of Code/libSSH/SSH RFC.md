@@ -20,4 +20,4 @@ Both sides must send an identification string in the format of
 `SSH-protoversion-softwareversion SP comments CR LF`
 1. protoversion has been defined to be "2.0" in the RFC documents. But keeping this field allows for future upgrades to the SSH Protocol.
 ### Old Client, New Server
-Server implementations **may** support a configurable compati
+Server implementations **may** support a configurable compatibility flag that enables compatibility with old versions of the SSH protocol. When this flag is on, the server **should** identify its protoversion as 1.99. The 
