@@ -29,4 +29,6 @@ When a server wants to show that it is compatible with older versions of the SSH
 SSH packet format is as follows:
 1. uint32 - packet_length
 2. byte - padding_length
-3. byte[n1] - payload; n1 = padd
+3. byte[n1] - payload; n1 = packet_length - padding_length - 1
+4. byte[n2] - random padding; n2 = padding_length
+5. byte[m] - mac
