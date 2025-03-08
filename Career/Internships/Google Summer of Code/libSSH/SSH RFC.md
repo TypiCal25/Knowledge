@@ -12,4 +12,4 @@ The server host key is used during key exchange to verify that the client is rea
 2. Manually managing a database of certificates
 
 # Transport Layer
-The SSH T
+The SSH Transport Layer is a secure, low-level transport protocol. 
