@@ -22,3 +22,4 @@ Both sides must send an identification string in the format of
 2. The maximum length of this string is 255 characters.
 ## Compatibility with older SSH Versions
 Older versions of the SSH client haven't been documented well. 
+#### Old Client, 
