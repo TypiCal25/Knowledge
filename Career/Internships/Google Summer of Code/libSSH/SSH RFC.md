@@ -16,4 +16,5 @@ The SSH Transport Layer is a secure, low-level transport protocol.
 
 When used over TCP/IP, the server normally listens for connections over the port 22. 
 ## Protocol Version Exchange
-Both sides must send an identification string
+Both sides must send an identification string in the format of
+`SSH-protoversion-softwareversion SP comments CR LF`
