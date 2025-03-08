@@ -26,4 +26,7 @@ Older versions of the SSH client haven't been documented well.
 When a server wants to show that it is compatible with older versions of the SSH protocol, then it should send its protoversion to be 1.99. For newer clients, they will process this as if it is identical to 2.0. 
 ## SSH Packet Size
 ![[TCP Packet Image.png]]
-SSH packet 
+SSH packet format is as follows:
+1. uint32 - packet_length
+2. byte - padding_length
+3. byte[n1] - payload; n1 = padd
