@@ -11,4 +11,5 @@ The server host key is used during key exchange to verify that the client is rea
 1. Making use of a certificate authority
 2. Manually managing a database of certificates
 
-
+# Transport Layer
+The SSH T
