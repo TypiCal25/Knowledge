@@ -7,5 +7,6 @@ Each server is recommended to have a host key. A host key consists of
 2. A private key
 It is also possible for a single host to have multiple host keys according to different algorithms. This is perfectly fine. It **must** have at least one host key with the required public key algorithms.
 ### Server Verification using Host Keys
-The server host key is used during key exchange to verify that the client is really talking to the correct server.
+The server host key is used during key exchange to verify that the client is really talking to the correct server. How does the client do this?
+1. 
 
