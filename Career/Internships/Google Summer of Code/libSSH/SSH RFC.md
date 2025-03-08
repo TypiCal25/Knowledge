@@ -15,3 +15,5 @@ The server host key is used during key exchange to verify that the client is rea
 The SSH Transport Layer is a secure, low-level transport protocol. 
 
 When used over TCP/IP, the server normally listens for connections over the port 22. 
+## Protocol Version Exchange
+Both sides must send an identification string
