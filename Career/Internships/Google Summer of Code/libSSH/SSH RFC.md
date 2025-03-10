@@ -33,4 +33,5 @@ SSH packet format is as follows:
 4. byte[n2] - random padding; n2 = padding_length
 5. byte[m] - mac
 Here the packet_length is the total length of the packet data, excluding the packet_length and mac fields.
-
+## Compression
+If compression has been negotiated, the 'payload' field will be compressed using the negotiated compression algorithm. This compressed payload will then be used for all other calculations 
