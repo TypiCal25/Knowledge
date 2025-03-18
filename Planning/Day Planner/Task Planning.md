@@ -13,9 +13,9 @@ This document basically lists all the broad tasks that I need to finish. I shou
 # Google Summer of Code
 ## Getting Comfortable with SSH
 - [x] Read the RFCs regarding the protocol that is SSH and how does it work.
-- [ ] Understand the entire workflow behind SSH.
+- [x] Understand the entire workflow behind SSH.
 - [x] Get to know how to make extensions in SSH and what exactly are openSSH extensions.
-- [ ] Get to know what is openSSH and what exactly it does.
+- [x] Get to know what is openSSH and what exactly it does.
 - [ ] Go through the Codebase of LibSSH.
 # Nethermind
 - [x] Text the two people on LinkedIn about a blockchain development internship.
