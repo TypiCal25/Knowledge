@@ -1,0 +1,1 @@
+Mining pools allow bitcoin miners in order to pool 
