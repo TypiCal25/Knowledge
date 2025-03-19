@@ -12,4 +12,4 @@ There are mainly 5 main components in a decentralized mining pool
 In general, in a decentralized bitcoin mining pool, there must be some additional structure that shows that this share belongs to the mining pool itself. This must be done using some additional metadata that must be committed.
 
 # PHANTOM Protocol
-The Phantom protocol is a protocol that generalizes the Nakamoto c
+The Phantom protocol is a protocol that generalizes the Nakamoto consensus to Directed Acyclic Graphs. 
