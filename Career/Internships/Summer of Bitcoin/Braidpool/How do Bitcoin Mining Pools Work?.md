@@ -2,6 +2,7 @@ Mining pools allow bitcoin miners in order to pool together their computation po
 
 # General Considerations for a Decentralized Bitcoin Mining Pool
 There are mainly 5 main components in a decentralized mining pool
+
 1. Weak Blocks
 2. Consensus Mechanism 
 3. Payout Commitments 
@@ -10,3 +11,4 @@ There are mainly 5 main components in a decentralized mining pool
 
 In general, in a decentralized bitcoin mining pool, there must be some additional structure that shows that this share belongs to the mining pool itself. This must be done using some additional metadata that must be committed.
 # Bitcoin's Chain Decision Strategy
+## How Many Hashes are required to find a valid block?
