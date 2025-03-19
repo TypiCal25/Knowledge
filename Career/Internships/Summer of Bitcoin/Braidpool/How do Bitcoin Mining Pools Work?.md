@@ -13,3 +13,4 @@ In general, in a decentralized bitcoin mining pool, there must be some additiona
 
 # PHANTOM Protocol
 The Phantom protocol is a protocol that generalizes the Nakamoto consensus to Directed Acyclic Graphs. 
+## Definitions
