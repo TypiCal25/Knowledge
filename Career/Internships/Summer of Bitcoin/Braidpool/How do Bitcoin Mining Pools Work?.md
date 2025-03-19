@@ -8,4 +8,4 @@ There are mainly 5 main components in a decentralized mining pool
 4. Signing Procedure
 5. Transaction Selection Procedure for building bitcoin blocks
 
-In general, in a decentralized bitcoin mining pool, there must be some additional structure that shows that this share belongs to the mining pool itself. This must be done 
+In general, in a decentralized bitcoin mining pool, there must be some additional structure that shows that this share belongs to the mining pool itself. This must be done using some additional metadata that must be committed.
