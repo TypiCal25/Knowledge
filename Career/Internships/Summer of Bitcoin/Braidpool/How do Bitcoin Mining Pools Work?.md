@@ -17,5 +17,5 @@ In the random oracle method of assuming the SHA-256 hash, we know that for a par
 $$\Large \dfrac{t}{2^{256}}$$
 This is due to the fact that the total probability required to find a successful hash would be
 $$\Large \dfrac{t}{2^{256}} + \dfrac{2^{256} - t}{2^{256}}\cdot\dfrac{t}{2^{256}} + ...$$
-
-This is a geometric 
+### Explanation 2
+Bu
