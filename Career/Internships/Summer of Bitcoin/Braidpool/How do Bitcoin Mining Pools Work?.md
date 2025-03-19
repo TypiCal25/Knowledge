@@ -14,3 +14,4 @@ In general, in a decentralized bitcoin mining pool, there must be some additiona
 ## How Many Hashes are required to find a valid block?
 In the random oracle method of assuming the SHA-256 hash, we know that for a particular difficulty $t$, there must be some probability of getting a correct hash. This would be
 $$\Large \dfrac{1}{t}$$
+This is due to the fact that 
