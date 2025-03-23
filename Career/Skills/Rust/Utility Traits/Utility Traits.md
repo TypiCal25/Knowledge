@@ -1,3 +1,3 @@
 ![[Drop.png]]
 
-![[Clone.png]]
+![[Clone.png]]![[Deref and Deref Mut.png]]
